@@ -1,0 +1,1201 @@
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  18 FEB 2018 16:55
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**metropolistheme.dtx
+(./metropolistheme.dtx
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/ltxdoc.cls
+Document Class: ltxdoc 2017/03/13 v2.0v Standard LaTeX documentation class
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/doc.sty
+Package: doc 2016/02/15 v2.1g Standard LaTeX documentation package (FMi)
+\c@StandardModuleDepth=\count87
+\guard@level=\count88
+\MacrocodeTopsep=\skip43
+\MacroIndent=\dimen103
+\macro@cnt=\count89
+\MacroTopsep=\skip44
+\index@excludelist=\toks14
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
+\c@tracingmulticols=\count90
+\mult@box=\box26
+\multicol@leftmargin=\dimen104
+\c@unbalance=\count91
+\c@collectmore=\count92
+\doublecol@number=\count93
+\multicoltolerance=\count94
+\multicolpretolerance=\count95
+\full@width=\dimen105
+\page@free=\dimen106
+\premulticols=\dimen107
+\postmulticols=\dimen108
+\multicolsep=\skip45
+\multicolbaselineskip=\skip46
+\partial@page=\box27
+\last@line=\box28
+\maxbalancingoverflow=\dimen109
+\mult@rightbox=\box29
+\mult@grightbox=\box30
+\mult@gfirstbox=\box31
+\mult@firstbox=\box32
+\@tempa=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\c@columnbadness=\count96
+\c@finalcolumnbadness=\count97
+\last@try=\dimen110
+\multicolovershoot=\dimen111
+\multicolundershoot=\dimen112
+\mult@nat@firstbox=\box50
+\colbreak@box=\box51
+\mc@col@check@num=\count98
+)
+\IndexMin=\dimen113
+\c@IndexColumns=\count99
+\GlossaryMin=\dimen114
+\c@GlossaryColumns=\count100
+\check@sum=\count101
+\bslash@cnt=\count102
+\wrong@table=\toks15
+\c@CodelineNo=\count103
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2001/04/09 non-zero parskip adjustments
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count104
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/local/texlive/2017/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2017/05/13 L3 programming layer (loader) 
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2017/05/13 L3 programming layer (code)
+\c_max_int=\count105
+\l_tmpa_int=\count106
+\l_tmpb_int=\count107
+\g_tmpa_int=\count108
+\g_tmpb_int=\count109
+\g__prg_map_int=\count110
+\c_log_iow=\count111
+\l_iow_line_count_int=\count112
+\l__iow_line_target_int=\count113
+\l__iow_one_indent_int=\count114
+\l__iow_indent_int=\count115
+\c_zero_dim=\dimen115
+\c_max_dim=\dimen116
+\l_tmpa_dim=\dimen117
+\l_tmpb_dim=\dimen118
+\g_tmpa_dim=\dimen119
+\g_tmpb_dim=\dimen120
+\c_zero_skip=\skip47
+\c_max_skip=\skip48
+\l_tmpa_skip=\skip49
+\l_tmpb_skip=\skip50
+\g_tmpa_skip=\skip51
+\g_tmpb_skip=\skip52
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+\l_keys_choice_int=\count116
+\c__fp_leading_shift_int=\count117
+\c__fp_middle_shift_int=\count118
+\c__fp_trailing_shift_int=\count119
+\c__fp_big_leading_shift_int=\count120
+\c__fp_big_middle_shift_int=\count121
+\c__fp_big_trailing_shift_int=\count122
+\c__fp_Bigg_leading_shift_int=\count123
+\c__fp_Bigg_middle_shift_int=\count124
+\c__fp_Bigg_trailing_shift_int=\count125
+\l__sort_length_int=\count126
+\l__sort_min_int=\count127
+\l__sort_top_int=\count128
+\l__sort_max_int=\count129
+\l__sort_true_max_int=\count130
+\l__sort_block_int=\count131
+\l__sort_begin_int=\count132
+\l__sort_end_int=\count133
+\l__sort_A_int=\count134
+\l__sort_B_int=\count135
+\l__sort_C_int=\count136
+\c_empty_box=\box52
+\l_tmpa_box=\box53
+\l_tmpb_box=\box54
+\g_tmpa_box=\box55
+\g_tmpb_box=\box56
+\l__box_top_dim=\dimen121
+\l__box_bottom_dim=\dimen122
+\l__box_left_dim=\dimen123
+\l__box_right_dim=\dimen124
+\l__box_top_new_dim=\dimen125
+\l__box_bottom_new_dim=\dimen126
+\l__box_left_new_dim=\dimen127
+\l__box_right_new_dim=\dimen128
+\l__box_internal_box=\box57
+\l__coffin_internal_box=\box58
+\l__coffin_internal_dim=\dimen129
+\l__coffin_offset_x_dim=\dimen130
+\l__coffin_offset_y_dim=\dimen131
+\l__coffin_x_dim=\dimen132
+\l__coffin_y_dim=\dimen133
+\l__coffin_x_prime_dim=\dimen134
+\l__coffin_y_prime_dim=\dimen135
+\c_empty_coffin=\box59
+\l__coffin_aligned_coffin=\box60
+\l__coffin_aligned_internal_coffin=\box61
+\l_tmpa_coffin=\box62
+\l_tmpb_coffin=\box63
+\l__coffin_display_coffin=\box64
+\l__coffin_display_coord_coffin=\box65
+\l__coffin_display_pole_coffin=\box66
+\l__coffin_display_offset_dim=\dimen136
+\l__coffin_display_x_dim=\dimen137
+\l__coffin_display_y_dim=\dimen138
+\l__coffin_bounding_shift_dim=\dimen139
+\l__coffin_left_corner_dim=\dimen140
+\l__coffin_right_corner_dim=\dimen141
+\l__coffin_bottom_corner_dim=\dimen142
+\l__coffin_top_corner_dim=\dimen143
+\l__coffin_scaled_total_height_dim=\dimen144
+\l__coffin_scaled_width_dim=\dimen145
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
+File: l3xdvidpfmx.def 2017/03/18 v L3 Experimental driver: xdvipdfmx
+\l__driver_tmp_box=\box67
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2017/05/13 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count137
+\g__xparse_grabber_int=\count138
+\l__xparse_m_args_int=\count139
+\l__xparse_mandatory_args_int=\count140
+\l__xparse_v_nesting_int=\count141
+)
+Package: fontspec 2017/03/31 v2.6a Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2017/03/31 v2.6a Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count142
+\l__fontspec_language_int=\count143
+\l__fontspec_strnum_int=\count144
+\l__fontspec_tmp_int=\count145
+\l__fontspec_em_int=\count146
+\l__fontspec_emdef_int=\count147
+\l__fontspec_strong_int=\count148
+\l__fontspec_strongdef_int=\count149
+\l__fontspec_tmpa_dim=\dimen146
+\l__fontspec_tmpb_dim=\dimen147
+\l__fontspec_tmpc_dim=\dimen148
+\g__file_internal_ior=\read1
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/tuenc.def
+File: tuenc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
+))
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fontspec with sig. 'O{}mO{}' on line 472.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmainfont with sig. 'O{}mO{}' on line 483.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setsansfont with sig. 'O{}mO{}' on line 503.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmonofont with sig. 'O{}mO{}' on line 523.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setromanfont with sig. 'O{}mO{}' on line 543.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathrm with sig. 'O{}mO{}' on line 547.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 555.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathsf with sig. 'O{}mO{}' on line 563.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathtt with sig. 'O{}mO{}' on line 571.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 586.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontface with sig. 'mO{}mO{}' on line 603.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \defaultfontfeatures with sig. 't+om' on line 614.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addfontfeatures with sig. 'm' on line 645.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfeature with sig. 'mm' on line 672.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newAATfeature with sig. 'mmmm' on line 686.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newopentypefeature with sig. 'mmm' on line 700.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newICUfeature with sig. 'mmm' on line 720.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeature with sig. 'mm' on line 724.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 745.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontscript with sig. 'mm' on line 778.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontlanguage with sig. 'mm' on line 782.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareFontsExtensions with sig. 'm' on line 786.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 797.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingCommand with sig. 'mO{}m' on line 3438.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingAccent with sig. 'mm' on line 3444.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingSymbol with sig. 'mm' on line 3450.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingComposite with sig. 'mmm' on line 3456.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3462.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3487.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareSymbol with sig. 'm' on line 3493.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareComposite with sig. 'mm' on line 3501.
+.................................................
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fontspec/fontspec.cfg)
+LaTeX Info: Redefining \itshape on input line 3686.
+LaTeX Info: Redefining \slshape on input line 3691.
+LaTeX Info: Redefining \scshape on input line 3696.
+LaTeX Info: Redefining \upshape on input line 3701.
+LaTeX Info: Redefining \em on input line 3731.
+LaTeX Info: Redefining \emph on input line 3756.
+LaTeX Info: Redefining \- on input line 3807.
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \oldstylenums with sig. 'm' on line 3902.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \liningnums with sig. 'm' on line 3906.
+.................................................
+))
+\c@fontsnotfound=\count150
+
+Could not find Fira Sans fonts. Creating documentationwith standard fonts.
+Could not find Fira Sans fonts. Creating documentationwith standard monospaced 
+fonts.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\enitkv@toks@=\toks16
+\labelindent=\skip53
+\enit@outerparindent=\dimen149
+\enit@toks=\toks17
+\enit@inbox=\box68
+\enitdp@description=\count151
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2016/07/11 v4.10 LaTeX color/graphics driver for XeTeX (L3/RRM/
+JK)
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.sty
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+\lst@mode=\count152
+\lst@gtempboxa=\box69
+\lst@token=\toks19
+\lst@length=\count153
+\lst@currlwidth=\dimen150
+\lst@column=\count154
+\lst@pos=\count155
+\lst@lostspace=\dimen151
+\lst@width=\dimen152
+\lst@newlines=\count156
+\lst@lineno=\count157
+\lst@maxwidth=\dimen153
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count158
+\lst@skipnumbers=\count159
+\lst@framebox=\box70
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2015/06/04 1.6 listings language file
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang3.sty
+File: lstlang3.sty 2015/06/04 1.6 listings language file
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2015/06/04 1.6 listings language file
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang3.sty
+File: lstlang3.sty 2015/06/04 1.6 listings language file
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2015/06/04 1.6 listings language file
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang3.sty
+File: lstlang3.sty 2015/06/04 1.6 listings language file
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+)
+Package Listings Info: Made | a short reference for \lstinline on input line 12
+7.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/metalogo/metalogo.sty
+Package: metalogo 2010/05/29 v0.12 Extended TeX logo macros
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 99.
+)
+\Gin@req@height=\dimen154
+\Gin@req@width=\dimen155
+)
+\xl@everylogo=\toks20
+\xl@@everylogo=\toks21
+LaTeX Info: Redefining \TeX on input line 193.
+LaTeX Info: Redefining \LaTeX on input line 202.
+LaTeX Info: Redefining \LaTeXe on input line 219.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen156
+\Hy@linkcounter=\count160
+\Hy@pagecounter=\count161
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count162
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4374.
+
+
+Package hyperref Warning: Option `pagecolor' is not available anymore.
+
+Package hyperref Info: Hyper figures OFF on input line 4498.
+Package hyperref Info: Link nesting OFF on input line 4503.
+Package hyperref Info: Hyper index ON on input line 4506.
+Package hyperref Info: Plain pages OFF on input line 4513.
+Package hyperref Info: Backreferencing OFF on input line 4518.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4751.
+\c@Hy@tempcnt=\count163
+(/usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5104.
+\XeTeXLinkMargin=\dimen157
+\Fld@menulength=\count164
+\Field@Width=\dimen158
+\Fld@charsize=\dimen159
+Package hyperref Info: Hyper figures OFF on input line 6358.
+Package hyperref Info: Link nesting OFF on input line 6363.
+Package hyperref Info: Hyper index ON on input line 6366.
+Package hyperref Info: backreferencing OFF on input line 6373.
+Package hyperref Info: Link coloring ON on input line 6376.
+Package hyperref Info: Link coloring with OCG OFF on input line 6383.
+Package hyperref Info: PDF/A mode OFF on input line 6388.
+LaTeX Info: Redefining \ref on input line 6428.
+LaTeX Info: Redefining \pageref on input line 6432.
+\Hy@abspage=\count165
+\c@Item=\count166
+\c@Hfootnote=\count167
+)
+
+Package hyperref Message: Driver (autodetected): hxetex.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2017/03/14 v6.85a Hyperref driver for XeTeX
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2017/03/14 v6.85a Hyperref: PDF Unicode definition (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/stringenc.sty
+Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box71
+\c@Hy@AnnotLevel=\count168
+\HyField@AnnotCount=\count169
+\Fld@listcount=\count170
+\c@bookmark@seq@number=\count171
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
+(rerunfilecheck)             (e.g. pdfTeX or LuaTeX with package `pdftexcmds').
+
+(rerunfilecheck)             Therefore file contents cannot be checked efficien
+tly
+(rerunfilecheck)             and the loading of the package is aborted.
+)
+\Hy@SectionHShift=\skip54
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fileinfo/readprov.sty
+Package: readprov 2012/11/22 v0.5 file infos without loading (UL)
+)
+(/Users/jennylee/Dropbox/Mudd/thesis/beamerthememetropolis.sty
+Package: beamerthememetropolis 2017/01/23 v1.2 Metropolis Beamer theme
+)
+(/Users/jennylee/Dropbox/Mudd/thesis/.latex-cache/metropolistheme.aux)
+\openout1 = `metropolistheme.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 155.
+LaTeX Font Info:    ... okay on input line 155.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 155.
+LaTeX Font Info:    ... okay on input line 155.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 155.
+LaTeX Font Info:    ... okay on input line 155.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 155.
+LaTeX Font Info:    ... okay on input line 155.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 155.
+LaTeX Font Info:    ... okay on input line 155.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 155.
+LaTeX Font Info:    ... okay on input line 155.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 155.
+LaTeX Font Info:    ... okay on input line 155.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 155.
+LaTeX Font Info:    ... okay on input line 155.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 155.
+LaTeX Font Info:    ... okay on input line 155.
+Package doc Info: Made | a short reference for \verb on input line 155.
+.................................................
+. fontspec info: "setup-math"
+. 
+. Adjusting the maths setup (use [no-math] to avoid this).
+.................................................
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 155.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 155.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 155.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 155.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 155.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 155.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 155.
+LaTeX Font Info:    Redeclaring math accent \check on input line 155.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 155.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 155.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 155.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 155.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 155.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 155.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 155.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 155.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 155.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 155.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 155.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 155.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 155.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 155.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 155.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 155.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 155.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 155.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 155.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 155.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 155.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 155.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 155.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 155.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 155.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 155.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 155.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/lmr/bx/it on input line 155.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 155.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 155.
+\c@lstlisting=\count172
+\AtBeginShipoutBox=\box72
+Package hyperref Info: Link coloring ON on input line 155.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count173
+)
+LaTeX Info: Redefining \ref on input line 155.
+LaTeX Info: Redefining \pageref on input line 155.
+LaTeX Info: Redefining \nameref on input line 155.
+
+(/Users/jennylee/Dropbox/Mudd/thesis/.latex-cache/metropolistheme.out)
+(/Users/jennylee/Dropbox/Mudd/thesis/.latex-cache/metropolistheme.out)
+\@outlinefile=\write3
+\openout3 = `metropolistheme.out'.
+
+
+
+LaTeX Font Warning: Font shape `TU/lmr/bx/sc' undefined
+(Font)              using `TU/lmr/bx/n' instead on input line 158.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 158.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 158.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 158.
+(/Users/jennylee/Dropbox/Mudd/thesis/.latex-cache/metropolistheme.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 20.
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
+File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
+
+)
+[1
+
+] [2])
+\tf@toc=\write4
+\openout4 = `metropolistheme.toc'.
+
+ [3] [4] [5] [6]
+Underfull \hbox (badness 10000) in paragraph at lines 333--334
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--347
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--353
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 361--362
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 370--371
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--380
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 385--386
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 391--392
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--397
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 401--410
+
+ []
+
+
+LaTeX Warning: Marginpar on page 8 moved.
+
+
+LaTeX Warning: Marginpar on page 8 moved.
+
+
+LaTeX Warning: Marginpar on page 8 moved.
+
+[8] [9]
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <14.4> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 491.
+ [10]
+Underfull \hbox (badness 1014) in paragraph at lines 547--551
+\TU/lmr/m/n/10 Be aware that not every font supports small caps, so the []\TU/l
+mtt/m/n/10 smallcaps \TU/lmr/m/n/10 or
+ []
+
+[11]
+Overfull \hbox (30.304pt too wide) in paragraph at lines 557--560
+[]\TU/lmr/m/n/10 Some commands, like []\TU/lmtt/m/n/10 \\\TU/lmr/m/n/10 , do no
+t work inside []\TU/lmtt/m/n/10 \MakeLowercase \TU/lmr/m/n/10 and []\TU/lmtt/m/
+n/10 \MakeUppercase\TU/lmr/m/n/10 .
+ []
+
+[12] [13] (/Users/jennylee/Dropbox/Mudd/thesis/source/beamerthememetropolis.dtx
+[14]
+Overfull \hbox (5.31111pt too wide) in paragraph at lines 86--86
+ [][]        \TU/lmtt/m/n/9 Be aware that titleformat plain=allsmallcaps can le
+ad to problems% 
+ []
+
+[15] [16]
+Overfull \hbox (14.76112pt too wide) in paragraph at lines 190--190
+ [][]    \TU/lmtt/m/n/9 The syntax `\plain' may be deprecated in a future versi
+on of Metropolis. 
+ []
+
+[17]
+**********************************
+* This macro file has no checksum!
+* The checksum should be 67!
+**********************************
+) (/Users/jennylee/Dropbox/Mudd/thesis/source/beamerinnerthememetropolis.dtx
+[18]
+Overfull \hbox (14.76105pt too wide) in paragraph at lines 111--111
+ [][]    \TU/lmtt/m/n/9 \ifx\inserttitlegraphic\@empty\else\usebeamertemplate*{
+title graphic}\fi 
+ []
+
+[19] [20]
+Overfull \hbox (38.3861pt too wide) in paragraph at lines 209--209
+ [][]    \TU/lmtt/m/n/9 \fill[fg] (0,0) rectangle (\textwidth, \metropolis@titl
+eseparator@linewidth); 
+ []
+
+[21] [22] [23]
+Overfull \hbox (9.18001pt too wide) in paragraph at lines 329--332
+\TU/lmr/m/n/10 duplicated in large part in the outer theme’s template []\TU/lmt
+t/m/n/10 progress bar in head/foot\TU/lmr/m/n/10 . 
+ []
+
+
+Overfull \hbox (10.03606pt too wide) in paragraph at lines 348--348
+ [][]    \TU/lmtt/m/n/9 \textwidth * \ratio{\insertframenumber pt}{\inserttotal
+framenumber pt}% 
+ []
+
+
+Overfull \hbox (71.46109pt too wide) in paragraph at lines 348--348
+ [][]    \TU/lmtt/m/n/9 \fill[bg] (0,0) rectangle (\textwidth, \metropolis@prog
+ressonsectionpage@linewidth); 
+ []
+
+
+Overfull \hbox (180.13608pt too wide) in paragraph at lines 348--348
+ [][]    \TU/lmtt/m/n/9 \fill[fg] (0,0) rectangle (\metropolis@progressonsectio
+npage, \metropolis@progressonsectionpage@linewidth); 
+ []
+
+
+Overfull \hbox (27.502pt too wide) in paragraph at lines 350--359
+\TU/lmr/m/n/10 could cause fatal errors for long presentations, as []\TU/lmtt/m
+/n/10 \metropolis@progressonsectionpage
+ []
+
+[24]
+Overfull \hbox (24.21115pt too wide) in paragraph at lines 460--460
+ [][]\TU/lmtt/m/n/9 %   Otherwise, if the |block title| has a background, we se
+t the padding based 
+ []
+
+
+Overfull \hbox (10.03609pt too wide) in paragraph at lines 460--460
+ [][]\TU/lmtt/m/n/9 %   on |\metropolis@blockskip|. However, we have to visuall
+y compensate for 
+ []
+
+[25]
+Overfull \hbox (5.3111pt too wide) in paragraph at lines 460--460
+ [][]\TU/lmtt/m/n/9 %   subtracting |\metropolis@blockadjust| from the top and 
+bottom padding. 
+ []
+
+
+Overfull \hbox (14.7611pt too wide) in paragraph at lines 460--460
+ [][]\TU/lmtt/m/n/9 %   positive-height box |\metropolis@strut| ensures that th
+e block title box 
+ []
+
+
+Overfull \hbox (28.93611pt too wide) in paragraph at lines 460--460
+ [][]\TU/lmtt/m/n/9 %   Next, we typeset the |block body|. This the code is sim
+ilar to, but simpler 
+ []
+
+
+Overfull \hbox (24.21112pt too wide) in paragraph at lines 460--460
+ [][]\TU/lmtt/m/n/9 %   than, the |block title| code since we don't need to adj
+ust for any struts. 
+ []
+
+
+Overfull \hbox (5.31105pt too wide) in paragraph at lines 460--460
+ [][]    \TU/lmtt/m/n/9 \begin{beamercolorbox}[sep=\metropolis@blocksep, vmode]
+{block body#1}% 
+ []
+
+[26]
+Overfull \hbox (5.31104pt too wide) in paragraph at lines 472--472
+ [][]\TU/lmtt/m/n/9 \setbeamertemplate{block alerted end}{\end{beamercolorbox}\
+vspace*{0.2ex}} 
+ []
+
+
+Overfull \hbox (5.31104pt too wide) in paragraph at lines 472--472
+ [][]\TU/lmtt/m/n/9 \setbeamertemplate{block example end}{\end{beamercolorbox}\
+vspace*{0.2ex}} 
+ []
+
+
+Overfull \hbox (85.63603pt too wide) in paragraph at lines 496--496
+ [][]  \TU/lmtt/m/n/9 \usebeamercolor{footnote}\hbox to 0.8em{\hfil\insertfootn
+otemark}\insertfootnotetext\par% 
+ []
+
+[27]
+Overfull \hbox (105.88702pt too wide) in paragraph at lines 530--533
+\TU/lmr/m/n/10 background. To use it, add the key []\TU/lmtt/m/n/10 standout \T
+U/lmr/m/n/10 to the frame: []\TU/lmtt/m/n/10 \begin{frame}[standout] ... \end{f
+rame}\TU/lmr/m/n/10 . 
+ []
+
+[28]
+**********************************
+* This macro file has no checksum!
+* The checksum should be 335!
+**********************************
+) (/Users/jennylee/Dropbox/Mudd/thesis/source/beamerouterthememetropolis.dtx
+[29] [30]
+Overfull \hbox (28.93607pt too wide) in paragraph at lines 181--181
+ [][]      \TU/lmtt/m/n/9 \ifcsdef{metropolis@frametitleformat}{\metropolis@fra
+metitleformat X}{X}% 
+ []
+
+[31]
+Overfull \hbox (19.48602pt too wide) in paragraph at lines 181--181
+ [][]  \TU/lmtt/m/n/9 \rule[-\metropolis@frametitle@padding]{0pt}{\metropolis@f
+rametitle@padding} 
+ []
+
+
+Overfull \hbox (14.76106pt too wide) in paragraph at lines 206--206
+ [][]    \TU/lmtt/m/n/9 \paperwidth * \ratio{\insertframenumber pt}{\inserttota
+lframenumber pt}% 
+ []
+
+
+Overfull \hbox (71.46109pt too wide) in paragraph at lines 206--206
+ [][]      \TU/lmtt/m/n/9 \fill[bg] (0,0) rectangle (\paperwidth, \metropolis@p
+rogressinheadfoot@linewidth); 
+ []
+
+[32]
+Overfull \hbox (161.2361pt too wide) in paragraph at lines 206--206
+ [][]      \TU/lmtt/m/n/9 \fill[fg] (0,0) rectangle (\metropolis@progressinhead
+foot, \metropolis@progressinheadfoot@linewidth); 
+ []
+
+**********************************
+* This macro file has no checksum!
+* The checksum should be 105!
+**********************************
+) (/Users/jennylee/Dropbox/Mudd/thesis/source/beamerfontthememetropolis.dtx
+[33] [34] [35] [36]
+Overfull \hbox (5.31111pt too wide) in paragraph at lines 212--212
+ [][]        \TU/lmtt/m/n/9 Be aware that titleformat title=allsmallcaps can le
+ad to problems% 
+ []
+
+[37]
+Overfull \hbox (19.48611pt too wide) in paragraph at lines 244--244
+ [][]        \TU/lmtt/m/n/9 Be aware that titleformat subtitle=allsmallcaps can
+ lead to problems% 
+ []
+
+
+Overfull \hbox (14.76111pt too wide) in paragraph at lines 276--276
+ [][]        \TU/lmtt/m/n/9 Be aware that titleformat section=allsmallcaps can 
+lead to problems% 
+ []
+
+[38]
+Overfull \hbox (5.31111pt too wide) in paragraph at lines 308--308
+ [][]        \TU/lmtt/m/n/9 Be aware that titleformat frame=allsmallcaps can le
+ad to problems% 
+ []
+
+[39]
+Overfull \hbox (10.03604pt too wide) in paragraph at lines 414--414
+ [][]  \TU/lmtt/m/n/9 {\PackageError{beamerfontthememetropolis}{Patching subtit
+le failed}\@ehc} 
+ []
+
+[40]
+Overfull \hbox (33.66104pt too wide) in paragraph at lines 414--414
+ [][]  \TU/lmtt/m/n/9 {\PackageError{beamerfontthememetropolis}{Patching sectio
+n title failed}\@ehc} 
+ []
+
+
+Overfull \hbox (71.46103pt too wide) in paragraph at lines 414--414
+ [][]  \TU/lmtt/m/n/9 {\edef\insertsectionhead{\noexpand\hyperlink{Navigation\t
+he\c@page}{\unexpanded{#1}}}} 
+ []
+
+
+Overfull \hbox (57.28601pt too wide) in paragraph at lines 414--414
+ [][]  \TU/lmtt/m/n/9 {\protected@edef\insertsectionhead{\noexpand\hyperlink{Na
+vigation\the\c@page}{#1}}} 
+ []
+
+
+Overfull \hbox (38.38602pt too wide) in paragraph at lines 414--414
+ [][]  \TU/lmtt/m/n/9 {\protected@edef\insertsectionhead{\noexpand\hyperlink{Na
+vigation\the\c@page}{% 
+ []
+
+
+Overfull \hbox (24.21103pt too wide) in paragraph at lines 414--414
+ [][]  \TU/lmtt/m/n/9 \PackageError{beamerfontthememetropolis}{Patching section
+ title failed}\@ehc 
+ []
+
+
+Overfull \hbox (85.63602pt too wide) in paragraph at lines 414--414
+ [][]  \TU/lmtt/m/n/9 {\edef\insertsubsectionhead{\noexpand\hyperlink{Navigatio
+n\the\c@page}{\unexpanded{#1}}}} 
+ []
+
+
+Overfull \hbox (5.31104pt too wide) in paragraph at lines 414--414
+ [][]  \TU/lmtt/m/n/9 {\edef\insertsubsectionhead{\noexpand\hyperlink{Navigatio
+n\the\c@page}{% 
+ []
+
+
+Overfull \hbox (71.46103pt too wide) in paragraph at lines 414--414
+ [][]  \TU/lmtt/m/n/9 {\protected@edef\insertsubsectionhead{\noexpand\hyperlink
+{Navigation\the\c@page}{#1}}} 
+ []
+
+[41]
+Overfull \hbox (52.56104pt too wide) in paragraph at lines 414--414
+ [][]  \TU/lmtt/m/n/9 {\protected@edef\insertsubsectionhead{\noexpand\hyperlink
+{Navigation\the\c@page}{% 
+ []
+
+
+Overfull \hbox (24.21103pt too wide) in paragraph at lines 414--414
+ [][]  \TU/lmtt/m/n/9 \PackageError{beamerfontthememetropolis}{Patching section
+ title failed}\@ehc 
+ []
+
+
+Overfull \hbox (19.48604pt too wide) in paragraph at lines 436--436
+ [][]      \TU/lmtt/m/n/9 \gdef\insertframetitle{{#2\ifnum\beamer@autobreakcoun
+t>0\relax{}\space% 
+ []
+
+
+Overfull \hbox (24.21104pt too wide) in paragraph at lines 436--436
+ [][]  \TU/lmtt/m/n/9 {\PackageError{beamerfontthememetropolis}{Patching frame 
+title failed}\@ehc} 
+ []
+
+**********************************
+* This macro file has no checksum!
+* The checksum should be 368!
+**********************************
+) (/Users/jennylee/Dropbox/Mudd/thesis/source/beamercolorthememetropolis.dtx
+[42] [43] [44] [45] [46]
+**********************************
+* This macro file has no checksum!
+* The checksum should be 55!
+**********************************
+) (/Users/jennylee/Dropbox/Mudd/thesis/source/pgfplotsthemetol.dtx
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <12> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 33.
+ [47]
+[48] [49]
+**********************************
+* This macro file has no checksum!
+* The checksum should be 20!
+**********************************
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 692.
+ [50]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 692.
+ (/Users/jennylee/Dropbox/Mudd/thesis/.latex-cache/metropolistheme.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 692.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 692.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 21143 strings out of 493005
+ 384937 string characters out of 6134596
+ 499517 words of memory out of 5000000
+ 24927 multiletter control sequences out of 15000+600000
+ 6920 words of font info for 47 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 40i,8n,67p,10356b,2043s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on /Users/jennylee/Dropbox/Mudd/thesis/.latex-cache/metropolisth
+eme.xdv (50 pages, 770248 bytes).

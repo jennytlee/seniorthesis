@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: thesis_midterm_jlee.aux
+The style file: annotate.bst
+Database file #1: annotatedbib.bib
+Warning--to sort, need author or key in noauthor_self-regulation:_nodate
+Warning--empty journal in mcquarrie_changes_2016
+Warning--empty journal in musu-gillette_status_nodate
+Warning--empty year in musu-gillette_status_nodate
+Warning--empty publisher in travers_changes_2000
+You've used 35 entries,
+            2588 wiz_defined-function locations,
+            776 strings with 16796 characters,
+and the built_in function-call counts, 13885 in all, are:
+= -- 1393
+> -- 662
+< -- 15
++ -- 230
+- -- 225
+* -- 1122
+:= -- 2295
+add.period$ -- 103
+call.type$ -- 35
+change.case$ -- 219
+chr.to.int$ -- 35
+cite$ -- 41
+duplicate$ -- 506
+empty$ -- 974
+format.name$ -- 267
+if$ -- 2738
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 32
+newline$ -- 208
+num.names$ -- 102
+pop$ -- 167
+preamble$ -- 1
+purify$ -- 257
+quote$ -- 0
+skip$ -- 427
+stack$ -- 0
+substring$ -- 813
+swap$ -- 50
+text.length$ -- 15
+text.prefix$ -- 11
+top$ -- 0
+type$ -- 276
+warning$ -- 5
+while$ -- 141
+width$ -- 38
+write$ -- 481
+(There were 5 warnings)

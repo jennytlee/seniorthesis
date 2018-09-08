@@ -1,0 +1,43 @@
+PWD /Users/jennylee/Dropbox/Mudd/thesis
+INPUT /usr/local/texlive/2017/texmf.cnf
+INPUT /usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT thesis_midterm_jlee.tex
+OUTPUT tex extra/thesis_midterm_jlee.log
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/csquotes/csquotes.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/csquotes/csquotes.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/csquotes/csquotes.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/csquotes/csquotes.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/csquotes/csquotes.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/csquotes/csquotes.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/babel/switch.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/babel-english/english.ldf
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/babel-english/english.ldf
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/babel/babel.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/babel/txtbabel.def
+INPUT tex extra/thesis_midterm_jlee.aux
+INPUT tex extra/thesis_midterm_jlee.aux
+OUTPUT tex extra/thesis_midterm_jlee.aux
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT tex extra/thesis_midterm_jlee.bbl
+INPUT tex extra/thesis_midterm_jlee.bbl
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
+OUTPUT tex extra/thesis_midterm_jlee.pdf
+INPUT /usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT tex extra/thesis_midterm_jlee.aux
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
