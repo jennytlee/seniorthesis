@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.18)  7 SEP 2018 17:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.18)  10 SEP 2018 10:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -864,36 +864,36 @@ LaTeX Font Info:    Font shape `T1/zpltlf/b/n' will be
 [1
 
 
-] [2]) [3]
+] [2] [3]) [4]
 \openout2 = `srdef.aux'.
 
- (./srdef.tex [4
-
-
-
-]
+ (./srdef.tex
 Chapter 2.
 LaTeX Font Info:    Font shape `T1/zpltlf/m/it' will be
 (Font)              scaled to size 10.95pt on input line 4.
-[5]
-LaTeX Font Info:    Font shape `T1/zpltlf/bx/n' in size <12> not available
-(Font)              Font shape `T1/zpltlf/b/n' tried instead on input line 16.
-LaTeX Font Info:    Font shape `T1/zpltlf/b/n' will be
-(Font)              scaled to size 12.0pt on input line 16.
-
-
-Package natbib Warning: Citation `montague_self' on page 6 undefined on input line 20.
-
-[6] [7] [8]) [9]
-\openout2 = `casestudy.aux'.
-
- (./casestudy.tex [10
+[5
 
 
 
 ]
+LaTeX Font Info:    Font shape `T1/zpltlf/bx/n' in size <12> not available
+(Font)              Font shape `T1/zpltlf/b/n' tried instead on input line 19.
+LaTeX Font Info:    Font shape `T1/zpltlf/b/n' will be
+(Font)              scaled to size 12.0pt on input line 19.
+
+
+Package natbib Warning: Citation `montague_self' on page 6 undefined on input line 23.
+
+[6] [7] [8] [9]) [10]
+\openout2 = `casestudy.aux'.
+
+ (./casestudy.tex
 Chapter 3.
-[11] [12]) [13] [14
+[11
+
+
+
+] [12]) [13] [14
 
 
 ] (tex extra/thesis_jennylee.bbl
@@ -917,7 +917,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--67
 [15
 
 ] [16])
-<thesis_midterm_jlee.pdf, id=261, 614.295pt x 794.97pt>
+<thesis_midterm_jlee.pdf, id=262, 614.295pt x 794.97pt>
 File: thesis_midterm_jlee.pdf Graphic file (type pdf)
 <use thesis_midterm_jlee.pdf>
 Package pdftex.def Info: thesis_midterm_jlee.pdf  used on input line 401.
@@ -926,7 +926,7 @@ File: thesis_midterm_jlee.pdf Graphic file (type pdf)
 <use thesis_midterm_jlee.pdf>
 Package pdftex.def Info: thesis_midterm_jlee.pdf  used on input line 401.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<thesis_midterm_jlee.pdf, id=264, page=1, 614.295pt x 794.97pt>
+<thesis_midterm_jlee.pdf, id=265, page=1, 614.295pt x 794.97pt>
 File: thesis_midterm_jlee.pdf Graphic file (type pdf)
 <use thesis_midterm_jlee.pdf, page 1>
 Package pdftex.def Info: thesis_midterm_jlee.pdf , page1 used on input line 401.
@@ -949,7 +949,7 @@ File: thesis_midterm_jlee.pdf Graphic file (type pdf)
 Package pdftex.def Info: thesis_midterm_jlee.pdf , page1 used on input line 401.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [18 <./thesis_midterm_jlee.pdf>]
-<thesis_midterm_jlee.pdf, id=292, page=2, 614.295pt x 794.97pt>
+<thesis_midterm_jlee.pdf, id=293, page=2, 614.295pt x 794.97pt>
 File: thesis_midterm_jlee.pdf Graphic file (type pdf)
 <use thesis_midterm_jlee.pdf, page 2>
 Package pdftex.def Info: thesis_midterm_jlee.pdf , page2 used on input line 401.
@@ -963,7 +963,7 @@ File: thesis_midterm_jlee.pdf Graphic file (type pdf)
 Package pdftex.def Info: thesis_midterm_jlee.pdf , page2 used on input line 401.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [19 <./thesis_midterm_jlee.pdf>]
-<thesis_midterm_jlee.pdf, id=297, page=3, 614.295pt x 794.97pt>
+<thesis_midterm_jlee.pdf, id=298, page=3, 614.295pt x 794.97pt>
 File: thesis_midterm_jlee.pdf Graphic file (type pdf)
 <use thesis_midterm_jlee.pdf, page 3>
 Package pdftex.def Info: thesis_midterm_jlee.pdf , page3 used on input line 401.
@@ -977,7 +977,7 @@ File: thesis_midterm_jlee.pdf Graphic file (type pdf)
 Package pdftex.def Info: thesis_midterm_jlee.pdf , page3 used on input line 401.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [20 <./thesis_midterm_jlee.pdf>]
-<thesis_midterm_jlee.pdf, id=302, page=4, 614.295pt x 794.97pt>
+<thesis_midterm_jlee.pdf, id=303, page=4, 614.295pt x 794.97pt>
 File: thesis_midterm_jlee.pdf Graphic file (type pdf)
 <use thesis_midterm_jlee.pdf, page 4>
 Package pdftex.def Info: thesis_midterm_jlee.pdf , page4 used on input line 401.
@@ -991,7 +991,7 @@ File: thesis_midterm_jlee.pdf Graphic file (type pdf)
 Package pdftex.def Info: thesis_midterm_jlee.pdf , page4 used on input line 401.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [21 <./thesis_midterm_jlee.pdf>]
-<thesis_midterm_jlee.pdf, id=312, page=5, 614.295pt x 794.97pt>
+<thesis_midterm_jlee.pdf, id=313, page=5, 614.295pt x 794.97pt>
 File: thesis_midterm_jlee.pdf Graphic file (type pdf)
 <use thesis_midterm_jlee.pdf, page 5>
 Package pdftex.def Info: thesis_midterm_jlee.pdf , page5 used on input line 401.
@@ -1005,7 +1005,7 @@ File: thesis_midterm_jlee.pdf Graphic file (type pdf)
 Package pdftex.def Info: thesis_midterm_jlee.pdf , page5 used on input line 401.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [22 <./thesis_midterm_jlee.pdf>]
-<thesis_midterm_jlee.pdf, id=317, page=6, 614.295pt x 794.97pt>
+<thesis_midterm_jlee.pdf, id=318, page=6, 614.295pt x 794.97pt>
 File: thesis_midterm_jlee.pdf Graphic file (type pdf)
 <use thesis_midterm_jlee.pdf, page 6>
 Package pdftex.def Info: thesis_midterm_jlee.pdf , page6 used on input line 401.
@@ -1031,19 +1031,19 @@ Package rerunfilecheck Info: File `thesis_jennylee.out' has not changed.
 (rerunfilecheck)             Checksum: 0B8F3B3F5B990E5E2CA9D8AC64A90F71;767.
  ) 
 Here is how much of TeX's memory you used:
- 14488 strings out of 492982
- 223921 string characters out of 6132527
+ 14494 strings out of 492982
+ 224047 string characters out of 6132527
  345388 words of memory out of 5000000
  17523 multiletter control sequences out of 15000+600000
- 96176 words of font info for 140 fonts, out of 8000000 for 9000
+ 96521 words of font info for 143 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 47i,18n,56p,985b,685s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 47i,18n,56p,1039b,685s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/sourcesanspro/a_ggs4wk.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/tex-gyre/qplr.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/newpx/zplr.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/newpx/zplri.p
 fb>
-Output written on "tex extra/thesis_jennylee.pdf" (31 pages, 311332 bytes).
+Output written on "tex extra/thesis_jennylee.pdf" (31 pages, 314133 bytes).
 PDF statistics:
- 369 PDF objects out of 1000 (max. 8388607)
- 311 compressed objects within 4 object streams
+ 370 PDF objects out of 1000 (max. 8388607)
+ 312 compressed objects within 4 object streams
  67 named destinations out of 1000 (max. 500000)
  23195 words of extra memory for PDF output out of 24883 (max. 10000000)
 
