@@ -6,7 +6,6 @@ A level-1 auxiliary file: srdef.aux
 A level-1 auxiliary file: casestudy.aux
 The style file: hmcmath.bst
 Database file #1: ref.bib
-Warning--I didn't find a database entry for "montague_self"
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Name 1 in "Suzanne Macartney, Alemayehu Bishaw, and Kayla Fontenot" has a comma at the end for entry macartney
 while executing---line 1676 of file hmcmath.bst
@@ -28,7 +27,7 @@ Warning--empty journal in macartney
 Warning--empty year in zeider; set to ????
 You've used 17 entries,
             3501 wiz_defined-function locations,
-            803 strings with 9524 characters,
+            802 strings with 9511 characters,
 and the built_in function-call counts, 16695 in all, are:
 = -- 1817
 > -- 348
