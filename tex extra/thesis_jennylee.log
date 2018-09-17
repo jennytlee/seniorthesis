@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.18)  10 SEP 2018 10:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.18)  16 SEP 2018 23:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -875,16 +875,16 @@ LaTeX Font Info:    Font shape `T1/zpltlf/m/it' will be
 
 
 
-]
+] [6]
 LaTeX Font Info:    Font shape `T1/zpltlf/bx/n' in size <12> not available
-(Font)              Font shape `T1/zpltlf/b/n' tried instead on input line 19.
+(Font)              Font shape `T1/zpltlf/b/n' tried instead on input line 29.
 LaTeX Font Info:    Font shape `T1/zpltlf/b/n' will be
-(Font)              scaled to size 12.0pt on input line 19.
+(Font)              scaled to size 12.0pt on input line 29.
 
 
-Package natbib Warning: Citation `montague_self' on page 6 undefined on input line 23.
+Package natbib Warning: Citation `montague_self' on page 7 undefined on input line 33.
 
-[6] [7] [8] [9]) [10]
+[7] [8] [9]) [10]
 \openout2 = `casestudy.aux'.
 
  (./casestudy.tex
@@ -1031,16 +1031,16 @@ Package rerunfilecheck Info: File `thesis_jennylee.out' has not changed.
 (rerunfilecheck)             Checksum: 0B8F3B3F5B990E5E2CA9D8AC64A90F71;767.
  ) 
 Here is how much of TeX's memory you used:
- 14494 strings out of 492982
- 224047 string characters out of 6132527
+ 14492 strings out of 492982
+ 224009 string characters out of 6132527
  345388 words of memory out of 5000000
  17523 multiletter control sequences out of 15000+600000
- 96521 words of font info for 143 fonts, out of 8000000 for 9000
+ 96403 words of font info for 142 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  47i,18n,56p,1039b,685s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/sourcesanspro/a_ggs4wk.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/tex-gyre/qplr.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/newpx/zplr.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/newpx/zplri.p
 fb>
-Output written on "tex extra/thesis_jennylee.pdf" (31 pages, 314133 bytes).
+Output written on "tex extra/thesis_jennylee.pdf" (31 pages, 315486 bytes).
 PDF statistics:
  370 PDF objects out of 1000 (max. 8388607)
  312 compressed objects within 4 object streams
