@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.18)  7 OCT 2018 23:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.18)  8 OCT 2018 07:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -937,18 +937,18 @@ Package rerunfilecheck Info: File `thesis_jennylee.out' has not changed.
 (rerunfilecheck)             Checksum: 96E5413E0FB9CD43260E39B2B2FA9322;887.
  ) 
 Here is how much of TeX's memory you used:
- 14504 strings out of 492982
- 223413 string characters out of 6132527
+ 14505 strings out of 492982
+ 223420 string characters out of 6132527
  345787 words of memory out of 5000000
  17503 multiletter control sequences out of 15000+600000
  96403 words of font info for 142 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  47i,11n,56p,1039b,685s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/sourcesanspro/a_ggs4wk.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/tex-gyre/qplr.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/newpx/zplr.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/newpx/zplri.pfb>
-Output written on "tex extra/thesis_jennylee.pdf" (27 pages, 242186 bytes).
+Output written on "tex extra/thesis_jennylee.pdf" (27 pages, 242232 bytes).
 PDF statistics:
- 367 PDF objects out of 1000 (max. 8388607)
- 326 compressed objects within 4 object streams
- 94 named destinations out of 1000 (max. 500000)
+ 368 PDF objects out of 1000 (max. 8388607)
+ 327 compressed objects within 4 object streams
+ 95 named destinations out of 1000 (max. 500000)
  23166 words of extra memory for PDF output out of 24883 (max. 10000000)
 
