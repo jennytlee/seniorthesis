@@ -175,6 +175,8 @@ INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/newpx/t1zpltlf.fd
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newpx/zpl-Regular-tlf-t1.tfm
 INPUT tex extra/thesis_jennylee.aux
 INPUT tex extra/thesis_jennylee.aux
+INPUT tex extra/outline.aux
+INPUT tex extra/outline.aux
 INPUT tex extra/motivation.aux
 INPUT tex extra/motivation.aux
 INPUT tex extra/srdef.aux
@@ -290,11 +292,14 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newpx/zplexa.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newpx/zplexa.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newpx/zplexa.tfm
 OUTPUT tex extra/thesis_jennylee.toc
+OUTPUT tex extra/outline.aux
+INPUT outline.tex
+INPUT outline.tex
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newpx/zpl-Regular-tlf-t1.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newpx/zpl-Bold-tlf-t1.tfm
 OUTPUT tex extra/motivation.aux
 INPUT motivation.tex
 INPUT motivation.tex
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newpx/zpl-Regular-tlf-t1.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newpx/zpl-Bold-tlf-t1.tfm
 OUTPUT tex extra/srdef.aux
 INPUT srdef.tex
 INPUT srdef.tex
@@ -308,61 +313,9 @@ INPUT tex extra/thesis_jennylee.bbl
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Regular-lf-t1.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/adobe/sourcesanspro/SourceSansPro-Regular-lf-t1.vf
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Regular-lf-t1--base.tfm
-INPUT thesis_midterm_jlee.pdf
-INPUT thesis_midterm_jlee.pdf
-INPUT ./thesis_midterm_jlee.pdf
-INPUT ./thesis_midterm_jlee.pdf
-INPUT ./thesis_midterm_jlee.pdf
-INPUT thesis_midterm_jlee.pdf
-INPUT ./thesis_midterm_jlee.pdf
-INPUT ./thesis_midterm_jlee.pdf
-INPUT thesis_midterm_jlee.pdf
-INPUT ./thesis_midterm_jlee.pdf
-INPUT ./thesis_midterm_jlee.pdf
-INPUT thesis_midterm_jlee.pdf
-INPUT ./thesis_midterm_jlee.pdf
-INPUT thesis_midterm_jlee.pdf
-INPUT ./thesis_midterm_jlee.pdf
-INPUT thesis_midterm_jlee.pdf
-INPUT ./thesis_midterm_jlee.pdf
-INPUT thesis_midterm_jlee.pdf
-INPUT ./thesis_midterm_jlee.pdf
-INPUT thesis_midterm_jlee.pdf
-INPUT ./thesis_midterm_jlee.pdf
-INPUT ./thesis_midterm_jlee.pdf
-INPUT thesis_midterm_jlee.pdf
-INPUT ./thesis_midterm_jlee.pdf
-INPUT thesis_midterm_jlee.pdf
-INPUT ./thesis_midterm_jlee.pdf
-INPUT thesis_midterm_jlee.pdf
-INPUT ./thesis_midterm_jlee.pdf
-INPUT ./thesis_midterm_jlee.pdf
-INPUT thesis_midterm_jlee.pdf
-INPUT ./thesis_midterm_jlee.pdf
-INPUT thesis_midterm_jlee.pdf
-INPUT ./thesis_midterm_jlee.pdf
-INPUT thesis_midterm_jlee.pdf
-INPUT ./thesis_midterm_jlee.pdf
-INPUT ./thesis_midterm_jlee.pdf
-INPUT thesis_midterm_jlee.pdf
-INPUT ./thesis_midterm_jlee.pdf
-INPUT thesis_midterm_jlee.pdf
-INPUT ./thesis_midterm_jlee.pdf
-INPUT thesis_midterm_jlee.pdf
-INPUT ./thesis_midterm_jlee.pdf
-INPUT ./thesis_midterm_jlee.pdf
-INPUT thesis_midterm_jlee.pdf
-INPUT ./thesis_midterm_jlee.pdf
-INPUT thesis_midterm_jlee.pdf
-INPUT ./thesis_midterm_jlee.pdf
-INPUT thesis_midterm_jlee.pdf
-INPUT ./thesis_midterm_jlee.pdf
-INPUT ./thesis_midterm_jlee.pdf
-INPUT thesis_midterm_jlee.pdf
-INPUT ./thesis_midterm_jlee.pdf
-INPUT thesis_midterm_jlee.pdf
-INPUT ./thesis_midterm_jlee.pdf
 INPUT tex extra/thesis_jennylee.aux
+INPUT tex extra/outline.aux
+INPUT tex extra/outline.aux
 INPUT tex extra/motivation.aux
 INPUT tex extra/motivation.aux
 INPUT tex extra/srdef.aux
@@ -376,10 +329,6 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/tex-gyre/qplr.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/newpx/zplb.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/newpx/zplr.pfb

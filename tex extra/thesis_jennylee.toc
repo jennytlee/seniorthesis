@@ -1,21 +1,22 @@
 \babel@toc {english}{}
 \contentsline {chapter}{Abstract}{iii}{chapter*.1}
 \contentsline {chapter}{Acknowledgments}{vii}{chapter*.3}
-\contentsline {chapter}{\numberline {1}Motivation}{1}{chapter.1}
-\contentsline {section}{\numberline {1.1}The need for change}{1}{section.1.1}
-\contentsline {section}{\numberline {1.2}Mathematics is not fair}{2}{section.1.2}
-\contentsline {chapter}{\numberline {2}Self-Regulation}{5}{chapter.2}
-\contentsline {section}{\numberline {2.1}Definition}{5}{section.2.1}
-\contentsline {section}{\numberline {2.2}Self-Assessment and Evaluation}{7}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Self-Instruction}{8}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Self-Monitoring}{8}{subsection.2.2.2}
-\contentsline {section}{\numberline {2.3}An example of self-assessment: self-paced assessment.}{9}{section.2.3}
-\contentsline {chapter}{\numberline {3}The case study}{11}{chapter.3}
-\contentsline {section}{\numberline {3.1}Introduction}{11}{section.3.1}
-\contentsline {section}{\numberline {3.2}A (not so) brief note on Mudd}{11}{section.3.2}
-\contentsline {subsubsection}{The Honor Code}{12}{section*.4}
-\contentsline {section}{\numberline {3.3}Method}{12}{section.3.3}
-\contentsline {chapter}{Bibliography}{15}{chapter*.5}
+\contentsline {chapter}{\numberline {1}Outline}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Motivation}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}The need for change}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Mathematics is not fair}{4}{section.2.2}
+\contentsline {chapter}{\numberline {3}Self-Regulation}{7}{chapter.3}
+\contentsline {section}{\numberline {3.1}Definition}{7}{section.3.1}
+\contentsline {section}{\numberline {3.2}Self-Assessment and Evaluation}{9}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Self-Instruction}{10}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Self-Monitoring}{10}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}An example of self-assessment: self-paced assessment.}{11}{section.3.3}
+\contentsline {chapter}{\numberline {4}The case study}{13}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{13}{section.4.1}
+\contentsline {section}{\numberline {4.2}A (not so) brief note on Mudd}{13}{section.4.2}
+\contentsline {subsubsection}{The Honor Code}{14}{section*.4}
+\contentsline {section}{\numberline {4.3}Method}{14}{section.4.3}
+\contentsline {chapter}{Bibliography}{17}{chapter*.5}
 \babel@toc {english}{}
 \babel@toc {english}{}
 \babel@toc {english}{}

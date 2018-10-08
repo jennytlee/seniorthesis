@@ -1,0 +1,10 @@
+# Fdb version 3
+["pdflatex"] 1538979098 "outline.tex" "tex extra/outline.pdf" "outline" 1538979098
+  "/usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf" 1518824182 33095 db9a077a3f94a5d0b580d566a7906714 ""
+  "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1519003040 4131493 a1700a3303bc52edd52ffeef26b2c1de ""
+  "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
+  "outline.tex" 1538979097 2356 de91c7872393bb624a815608a7fb3d97 ""
+  "tex extra/outline.aux" 1538977278 868 1fe6edc99cb1ead7fc1329a3f8a09623 ""
+  (generated)
+  "tex extra/outline.pdf"
+  "tex extra/outline.log"
