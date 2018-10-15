@@ -177,6 +177,8 @@ INPUT tex extra/thesis_jennylee.aux
 INPUT tex extra/thesis_jennylee.aux
 INPUT tex extra/outline.aux
 INPUT tex extra/outline.aux
+INPUT tex extra/intro.aux
+INPUT tex extra/intro.aux
 INPUT tex extra/motivation.aux
 INPUT tex extra/motivation.aux
 INPUT tex extra/srdef.aux
@@ -297,14 +299,18 @@ INPUT outline.tex
 INPUT outline.tex
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newpx/zpl-Regular-tlf-t1.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newpx/zpl-Bold-tlf-t1.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newpx/zpl-Italic-tlf-t1.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/tex-gyre/ts1-qplr.tfm
+OUTPUT tex extra/intro.aux
+INPUT intro.tex
+INPUT intro.tex
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newpx/zpl-Bold-tlf-t1.tfm
 OUTPUT tex extra/motivation.aux
 INPUT motivation.tex
 INPUT motivation.tex
 OUTPUT tex extra/srdef.aux
 INPUT srdef.tex
 INPUT srdef.tex
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newpx/zpl-Italic-tlf-t1.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newpx/zpl-Bold-tlf-t1.tfm
 OUTPUT tex extra/casestudy.aux
 INPUT casestudy.tex
 INPUT casestudy.tex
@@ -316,6 +322,8 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSan
 INPUT tex extra/thesis_jennylee.aux
 INPUT tex extra/outline.aux
 INPUT tex extra/outline.aux
+INPUT tex extra/intro.aux
+INPUT tex extra/intro.aux
 INPUT tex extra/motivation.aux
 INPUT tex extra/motivation.aux
 INPUT tex extra/srdef.aux
