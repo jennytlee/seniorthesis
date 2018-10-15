@@ -1,10 +1,10 @@
 # Fdb version 3
-["pdflatex"] 1539619080 "intro.tex" "tex extra/intro.pdf" "intro" 1539619081
+["pdflatex"] 1539624551 "intro.tex" "tex extra/intro.pdf" "intro" 1539624552
   "/usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf" 1518824182 33095 db9a077a3f94a5d0b580d566a7906714 ""
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1519003040 4131493 a1700a3303bc52edd52ffeef26b2c1de ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "intro.tex" 1539619079 7219 0362b2a5d612f647328ef072e9d3312d ""
-  "tex extra/intro.aux" 1539602662 1700 0d05473cfa021d5769d3a39785126fac ""
+  "intro.tex" 1539624550 7580 150b6546902d2f7d43779b915eaad9fa ""
+  "tex extra/intro.aux" 1539620057 1700 0d05473cfa021d5769d3a39785126fac ""
   (generated)
   "tex extra/intro.pdf"
   "tex extra/intro.log"

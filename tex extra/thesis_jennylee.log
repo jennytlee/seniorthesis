@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.18)  15 OCT 2018 08:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.18)  15 OCT 2018 09:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -885,9 +885,9 @@ Overfull \hbox (45.02477pt too wide) in paragraph at lines 53--54
 Chapter 2.
 [5]
 LaTeX Font Info:    Font shape `T1/zpltlf/bx/n' in size <12> not available
-(Font)              Font shape `T1/zpltlf/b/n' tried instead on input line 13.
+(Font)              Font shape `T1/zpltlf/b/n' tried instead on input line 15.
 LaTeX Font Info:    Font shape `T1/zpltlf/b/n' will be
-(Font)              scaled to size 12.0pt on input line 13.
+(Font)              scaled to size 12.0pt on input line 15.
  [6] [7]) [8]
 \openout2 = `motivation.aux'.
 
@@ -951,13 +951,13 @@ Package rerunfilecheck Info: File `thesis_jennylee.out' has not changed.
 Here is how much of TeX's memory you used:
  14551 strings out of 492982
  223962 string characters out of 6132527
- 345184 words of memory out of 5000000
+ 346184 words of memory out of 5000000
  17511 multiletter control sequences out of 15000+600000
  97013 words of font info for 145 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  47i,11n,56p,1039b,733s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/sourcesanspro/a_ggs4wk.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/tex-gyre/qplr.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/newpx/zplr.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/newpx/zplri.pfb>
-Output written on "tex extra/thesis_jennylee.pdf" (33 pages, 260646 bytes).
+Output written on "tex extra/thesis_jennylee.pdf" (33 pages, 261106 bytes).
 PDF statistics:
  436 PDF objects out of 1000 (max. 8388607)
  389 compressed objects within 4 object streams
