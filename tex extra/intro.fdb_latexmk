@@ -1,10 +1,13 @@
 # Fdb version 3
-["pdflatex"] 1540245897 "intro.tex" "tex extra/intro.pdf" "intro" 1540245898
+["pdflatex"] 1540272407 "intro.tex" "tex extra/intro.pdf" "intro" 1540272408
+  "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
+  "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1480098701 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1480098701 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "/usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf" 1518824182 33095 db9a077a3f94a5d0b580d566a7906714 ""
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1519003040 4131493 a1700a3303bc52edd52ffeef26b2c1de ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "intro.tex" 1540245897 7589 c7807660921c5ee51039037eb6508444 ""
-  "tex extra/intro.aux" 1539620057 1700 0d05473cfa021d5769d3a39785126fac ""
+  "intro.tex" 1540272407 9620 ec0404196e0f77d5fea50f52055455f6 ""
+  "tex extra/intro.aux" 1540246251 1700 6f7caf52082f8899bb4147b28ae4ad70 ""
   (generated)
-  "tex extra/intro.pdf"
   "tex extra/intro.log"
+  "tex extra/intro.pdf"
