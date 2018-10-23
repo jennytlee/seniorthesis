@@ -1,6 +1,0 @@
-PWD /Users/jennylee/Dropbox/Mudd/thesis
-INPUT /usr/local/texlive/2017/texmf.cnf
-INPUT /usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf
-INPUT /usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT outline.tex
-OUTPUT tex extra/outline.log

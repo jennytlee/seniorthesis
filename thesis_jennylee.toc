@@ -27,19 +27,3 @@
 \contentsline {subsubsection}{The Honor Code}{22}{section*.7}
 \contentsline {section}{\numberline {5.3}Method}{22}{section.5.3}
 \contentsline {chapter}{Bibliography}{25}{chapter*.8}
-\babel@toc {english}{}
-\babel@toc {english}{}
-\babel@toc {english}{}
-\babel@toc {english}{}
-\babel@toc {english}{}
-\babel@toc {english}{}
-\babel@toc {english}{}
-\babel@toc {english}{}
-\babel@toc {english}{}
-\babel@toc {english}{}
-\babel@toc {english}{}
-\babel@toc {english}{}
-\babel@toc {english}{}
-\babel@toc {english}{}
-\babel@toc {english}{}
-\babel@toc {english}{}
