@@ -175,10 +175,10 @@ INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/newpx/t1zpltlf.fd
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newpx/zpl-Regular-tlf-t1.tfm
 INPUT tex extra/thesis_jennylee.aux
 INPUT tex extra/thesis_jennylee.aux
-INPUT tex extra/outline.aux
-INPUT tex extra/outline.aux
 INPUT tex extra/intro.aux
 INPUT tex extra/intro.aux
+INPUT tex extra/fair.aux
+INPUT tex extra/fair.aux
 INPUT tex extra/motivation.aux
 INPUT tex extra/motivation.aux
 INPUT tex extra/srdef.aux
@@ -294,17 +294,13 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newpx/zplexa.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newpx/zplexa.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newpx/zplexa.tfm
 OUTPUT tex extra/thesis_jennylee.toc
-OUTPUT tex extra/outline.aux
-INPUT outline.tex
-INPUT outline.tex
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newpx/zpl-Regular-tlf-t1.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newpx/zpl-Bold-tlf-t1.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newpx/zpl-Italic-tlf-t1.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/tex-gyre/ts1-qplr.tfm
 OUTPUT tex extra/intro.aux
 INPUT intro.tex
 INPUT intro.tex
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newpx/zpl-Regular-tlf-t1.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newpx/zpl-Bold-tlf-t1.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newpx/zpl-Bold-tlf-t1.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newpx/zpl-Italic-tlf-t1.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Regular-lf-t1.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Bold-lf-t1.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newpx/zpl-Regular-tlf-t1.tfm
@@ -312,6 +308,13 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/adobe/sourcesanspro/SourceSans
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Bold-lf-t1--base.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/adobe/sourcesanspro/SourceSansPro-Regular-lf-t1.vf
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Regular-lf-t1--base.tfm
+OUTPUT tex extra/fair.aux
+INPUT fair.tex
+INPUT fair.tex
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/public/newpx/zplmia.vf
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/pxfonts/pxmia.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newtx/ntxmia.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newpx/zplr-x.tfm
 OUTPUT tex extra/motivation.aux
 INPUT motivation.tex
 INPUT motivation.tex
@@ -327,10 +330,10 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSan
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/adobe/sourcesanspro/SourceSansPro-Regular-lf-t1.vf
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Regular-lf-t1--base.tfm
 INPUT tex extra/thesis_jennylee.aux
-INPUT tex extra/outline.aux
-INPUT tex extra/outline.aux
 INPUT tex extra/intro.aux
 INPUT tex extra/intro.aux
+INPUT tex extra/fair.aux
+INPUT tex extra/fair.aux
 INPUT tex extra/motivation.aux
 INPUT tex extra/motivation.aux
 INPUT tex extra/srdef.aux
@@ -339,6 +342,8 @@ INPUT tex extra/casestudy.aux
 INPUT tex extra/casestudy.aux
 INPUT tex extra/thesis_jennylee.out
 INPUT tex extra/thesis_jennylee.out
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/newpx/tgpdiff.enc
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/sourcesanspro/a_ggs4wk.enc
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc
@@ -348,3 +353,4 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/tex-gyre/qplr.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/newpx/zplb.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/newpx/zplr.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/newpx/zplri.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/newpx/zplx-regular.pfb
