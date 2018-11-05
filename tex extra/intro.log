@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.18)  5 NOV 2018 06:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.18)  5 NOV 2018 07:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -6279,15 +6279,11 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no g in font nullfont!
 Missing character: There is no , in font nullfont!
-Missing character: There is no L in font nullfont!
 Missing character: There is no e in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no L in font nullfont!
+Missing character: There is no t in font nullfont!
 Missing character: There is no a in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no . in font nullfont!
 Missing character: There is no , in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 0 in font nullfont!
@@ -7905,56 +7901,38 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no g in font nullfont!
 Missing character: There is no ( in font nullfont!
-Missing character: There is no [ in font nullfont!
-\citation{zollinger_impact_2017}
-./intro.tex:42: Undefined control sequence.
-<write> ...: Citation `\@citeb ' on page \thepage 
-                                                  \space undefined\on@line .
-l.42 ... of teaching (\cite{zollinger_impact_2017}
-                                                  , \cite{bradley_evaluating...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-LaTeX Warning: Citation `zollinger_impact_2017' on page  undefined on input line 42.
-
-Missing character: There is no ] in font nullfont!
+Missing character: There is no Z in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
 Missing character: There is no , in font nullfont!
-Missing character: There is no [ in font nullfont!
-\citation{bradley_evaluating_2017}
-./intro.tex:42: Undefined control sequence.
-<write> ...: Citation `\@citeb ' on page \thepage 
-                                                  \space undefined\on@line .
-l.42 ...pact_2017}, \cite{bradley_evaluating_2017}
-                                                  ).
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-LaTeX Warning: Citation `bradley_evaluating_2017' on page  undefined on input line 42.
-
-Missing character: There is no ] in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 7 in font nullfont!
 Missing character: There is no ) in font nullfont!
 Missing character: There is no . in font nullfont!
 
 Overfull \hbox (20.0pt too wide) in paragraph at lines 41--43
 []
- []
-
-
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 41--43
-[]
- []
-
-
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 41--43
-[] 
  []
 
 
@@ -8422,23 +8400,19 @@ Missing character: There is no I in font nullfont!
 Missing character: There is no B in font nullfont!
 Missing character: There is no L in font nullfont!
 Missing character: There is no ( in font nullfont!
-Missing character: There is no [ in font nullfont!
-\citation{montague_self-regulation_2007}
-./intro.tex:44: Undefined control sequence.
-<write> ...: Citation `\@citeb ' on page \thepage 
-                                                  \space undefined\on@line .
-l.44 ... IBL (\cite{montague_self-regulation_2007}
-                                                  ). In mathematics, self-re...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-LaTeX Warning: Citation `montague_self-regulation_2007' on page  undefined on input line 44.
-
-Missing character: There is no ] in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 7 in font nullfont!
 Missing character: There is no ) in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no I in font nullfont!
@@ -8526,11 +8500,6 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no t in font nullfont!
 
 Overfull \hbox (20.0pt too wide) in paragraph at lines 44--45
-[]
- []
-
-
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 44--45
 []
  []
 
@@ -9059,12 +9028,13 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.50 \begin{table}
-                  [htb]
+                  [!htb]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 Missing character: There is no [ in font nullfont!
+Missing character: There is no ! in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no b in font nullfont!
@@ -9356,12 +9326,13 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.63 \begin{table}
-                  [htb]
+                  [!htb]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 Missing character: There is no [ in font nullfont!
+Missing character: There is no ! in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no b in font nullfont!
@@ -10406,11 +10377,11 @@ Missing character: There is no t in font nullfont!
 
  
 Here is how much of TeX's memory you used:
- 18 strings out of 492982
- 312 string characters out of 6132527
+ 15 strings out of 492982
+ 233 string characters out of 6132527
  62251 words of memory out of 5000000
- 3682 multiletter control sequences out of 15000+600000
+ 3679 multiletter control sequences out of 15000+600000
  3948 words of font info for 15 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 20i,8n,26p,950b,170s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 19i,8n,19p,950b,172s stack positions out of 5000i,500n,10000p,200000b,80000s
 !  ==> Fatal error occurred, no output PDF file produced!

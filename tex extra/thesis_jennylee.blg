@@ -3,222 +3,50 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: thesis_jennylee.aux
 A level-1 auxiliary file: intro.aux
 A level-1 auxiliary file: fair.aux
-A level-1 auxiliary file: srdef.aux
 A level-1 auxiliary file: casestudy.aux
 The style file: hmcmath.bst
+I found no \citation commands---while reading file thesis_jennylee.aux
 Database file #1: annotatedbib.bib
-Warning--entry type for "noauthor_self-regulation:_nodate" isn't style-file defined
---line 40 of file annotatedbib.bib
-Warning--entry type for "bradley_evaluating_2017" isn't style-file defined
---line 141 of file annotatedbib.bib
-Warning--entry type for "heron_how_2011" isn't style-file defined
---line 202 of file annotatedbib.bib
-Warning--entry type for "noauthor_legacy_nodate" isn't style-file defined
---line 384 of file annotatedbib.bib
-Warning--entry type for "noauthor_mathematics_nodate" isn't style-file defined
---line 514 of file annotatedbib.bib
-Warning--entry type for "thevenin_mentors_2007" isn't style-file defined
---line 658 of file annotatedbib.bib
-Warning--I didn't find a database entry for "zeider"
-Warning--I didn't find a database entry for "dunlap_custom"
-Warning--I didn't find a database entry for "dunlap_ld"
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-Warning--to sort, need author or key in noauthor_self-regulation:_nodate
-Warning--to sort, need author or key in noauthor_legacy_nodate
-Warning--to sort, need author or key in noauthor_mathematics_nodate
-Warning--empty year in noauthor_legacy_nodate; set to ????
-Warning--empty year in noauthor_mathematics_nodate; set to ????
-Warning--empty year in noauthor_self-regulation:_nodate; set to ????
-Warning--empty year in ab_getting_1992; set to ????
-`journal' is a missing field, not a string, for entry ab_getting_1992
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in ab_getting_1992
-Warning--empty year in abakpa_effect_2011; set to ????
-`journal' is a missing field, not a string, for entry abakpa_effect_2011
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in abakpa_effect_2011
-Warning--empty year in ariovich_assessing_2014; set to ????
-`journal' is a missing field, not a string, for entry ariovich_assessing_2014
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in ariovich_assessing_2014
-Warning--empty year in badger_extensive_2018; set to ????
-`journal' is a missing field, not a string, for entry badger_extensive_2018
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in badger_extensive_2018
-Warning--empty year in bligh_whats_1998; set to ????
-Warning--empty year in bloom_learning_1968; set to ????
-`journal' is a missing field, not a string, for entry bloom_learning_1968
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in bloom_learning_1968
-Warning--empty year in bradley_evaluating_2017; set to ????
-Warning--empty year in burris_developmental_1972; set to ????
-`journal' is a missing field, not a string, for entry burris_developmental_1972
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in burris_developmental_1972
-Warning--empty year in busato_intellectual_2000; set to ????
-`journal' is a missing field, not a string, for entry busato_intellectual_2000
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in busato_intellectual_2000
-Warning--empty year in chen_collaboration_2016; set to ????
-`journal' is a missing field, not a string, for entry chen_collaboration_2016
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in chen_collaboration_2016
-Warning--empty year in cheung_resolving_2018; set to ????
-`journal' is a missing field, not a string, for entry cheung_resolving_2018
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in cheung_resolving_2018
-Warning--empty year in cohen_modified_1982; set to ????
-`journal' is a missing field, not a string, for entry cohen_modified_1982
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in cohen_modified_1982
-Warning--empty year in dewar_mathematics_2016; set to ????
-Warning--empty year in finau_effects_2018; set to ????
-`journal' is a missing field, not a string, for entry finau_effects_2018
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in finau_effects_2018
-Warning--empty year in alfinio_flores_examining_2007; set to ????
-`journal' is a missing field, not a string, for entry alfinio_flores_examining_2007
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in alfinio_flores_examining_2007
-Warning--empty year in fong_lost_2014; set to ????
-`journal' is a missing field, not a string, for entry fong_lost_2014
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in fong_lost_2014
-Warning--empty year in freeman_active_2014; set to ????
-`journal' is a missing field, not a string, for entry freeman_active_2014
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in freeman_active_2014
-Warning--empty year in freire_pedagogy_2014; set to ????
-Warning--empty year in gutierrez_embracing_2012; set to ????
-`journal' is a missing field, not a string, for entry gutierrez_embracing_2012
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in gutierrez_embracing_2012
-Warning--empty year in heron_how_2011; set to ????
-Warning--empty year in dewar_transforming_2016; set to ????
-Warning--empty year in hosein_relationship_2018; set to ????
-`journal' is a missing field, not a string, for entry hosein_relationship_2018
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in hosein_relationship_2018
-Warning--empty year in kesici_predicting_2009; set to ????
-`journal' is a missing field, not a string, for entry kesici_predicting_2009
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in kesici_predicting_2009
-Warning--empty year in labuhn_enhancing_2010; set to ????
-`journal' is a missing field, not a string, for entry labuhn_enhancing_2010
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in labuhn_enhancing_2010
-Warning--empty year in lage_inverting_2000; set to ????
-`journal' is a missing field, not a string, for entry lage_inverting_2000
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in lage_inverting_2000
-Warning--empty year in lai_self-regulated_2016; set to ????
-`journal' is a missing field, not a string, for entry lai_self-regulated_2016
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in lai_self-regulated_2016
-Warning--empty year in lenz_active_2015; set to ????
-`journal' is a missing field, not a string, for entry lenz_active_2015
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in lenz_active_2015
-Warning--empty year in martin_developmental_2017; set to ????
-`journal' is a missing field, not a string, for entry martin_developmental_2017
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in martin_developmental_2017
-Warning--empty year in mcquarrie_changes_2016; set to ????
-`journal' is a missing field, not a string, for entry mcquarrie_changes_2016
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in mcquarrie_changes_2016
-Warning--empty year in miller_research_2015; set to ????
-`journal' is a missing field, not a string, for entry miller_research_2015
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in miller_research_2015
-Warning--empty year in montague_self-regulation_2007; set to ????
-`journal' is a missing field, not a string, for entry montague_self-regulation_2007
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in montague_self-regulation_2007
-Warning--empty year in moses_radical_2001; set to ????
-Warning--empty year in motlagh_relationship_2011; set to ????
-`journal' is a missing field, not a string, for entry motlagh_relationship_2011
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in motlagh_relationship_2011
-Warning--empty year in muis_epistemic_2008; set to ????
-`journal' is a missing field, not a string, for entry muis_epistemic_2008
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in muis_epistemic_2008
-Warning--empty year in musu-gillette_status_nodate; set to ????
-`journal' is a missing field, not a string, for entry musu-gillette_status_nodate
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in musu-gillette_status_nodate
-Warning--empty year in poon_critical_2016; set to ????
-`journal' is a missing field, not a string, for entry poon_critical_2016
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in poon_critical_2016
-Warning--empty year in simon_exploring_2015; set to ????
-`journal' is a missing field, not a string, for entry simon_exploring_2015
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in simon_exploring_2015
-Warning--empty year in stevens_role_2004; set to ????
-`journal' is a missing field, not a string, for entry stevens_role_2004
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in stevens_role_2004
-Warning--empty year in thevenin_mentors_2007; set to ????
-Warning--empty year in travers_changes_2000; set to ????
-Warning--missing publisher in travers_changes_2000
-Warning--empty year in wang_environment_2017; set to ????
-`journal' is a missing field, not a string, for entry wang_environment_2017
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in wang_environment_2017
-Warning--empty year in yong_why_2015; set to ????
-`journal' is a missing field, not a string, for entry yong_why_2015
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in yong_why_2015
-Warning--empty year in yoshinobu_overview_2013; set to ????
-Warning--empty year in zappe_flipping_2009; set to ????
-`journal' is a missing field, not a string, for entry zappe_flipping_2009
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in zappe_flipping_2009
-Warning--empty year in zollinger_impact_2017; set to ????
-`journal' is a missing field, not a string, for entry zollinger_impact_2017
-while executing---line 1757 of file hmcmath.bst
-Warning--empty journal in zollinger_impact_2017
-You've used 48 entries,
+You've used 0 entries,
             3501 wiz_defined-function locations,
-            961 strings with 16008 characters,
-and the built_in function-call counts, 43103 in all, are:
-= -- 4836
-> -- 1120
-< -- 30
-+ -- 561
-- -- 333
-* -- 2368
-:= -- 4985
-add.period$ -- 210
-call.type$ -- 48
-change.case$ -- 351
-chr.to.int$ -- 46
-cite$ -- 141
-duplicate$ -- 4387
-empty$ -- 2690
-format.name$ -- 463
-if$ -- 8649
-int.to.chr$ -- 3
+            690 strings with 5086 characters,
+and the built_in function-call counts, 37 in all, are:
+= -- 0
+> -- 0
+< -- 0
++ -- 0
+- -- 0
+* -- 2
+:= -- 8
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 1
+format.name$ -- 0
+if$ -- 1
+int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 460
-newline$ -- 267
-num.names$ -- 182
-pop$ -- 1819
+missing$ -- 0
+newline$ -- 11
+num.names$ -- 0
+pop$ -- 0
 preamble$ -- 1
-purify$ -- 302
+purify$ -- 0
 quote$ -- 0
-skip$ -- 2270
+skip$ -- 1
 stack$ -- 0
-substring$ -- 1939
-swap$ -- 3216
-text.length$ -- 1
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 417
-warning$ -- 87
-while$ -- 266
+type$ -- 0
+warning$ -- 0
+while$ -- 0
 width$ -- 0
-write$ -- 654
-(There were 35 error messages)
+write$ -- 10
+(There was 1 error message)
