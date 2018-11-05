@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.18)  30 OCT 2018 06:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.18)  30 OCT 2018 06:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**talk4.tex
-(./talk4.tex
+**talk5.tex
+(./talk5.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamer.cls
@@ -605,8 +605,8 @@ Package: beamerfontthememetropolis 2017/01/23 Metropolis font theme
 
 Package beamerthememetropolis Warning: You need to compile with XeLaTeX or LuaLaTeX to use the Fira fonts on input line 95.
 
-)) (tex extra/talk4.aux)
-\openout1 = `talk4.aux'.
+)) (tex extra/talk5.aux)
+\openout1 = `talk5.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
@@ -694,9 +694,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 16.
 LaTeX Info: Redefining \pageref on input line 16.
 LaTeX Info: Redefining \nameref on input line 16.
- (tex extra/talk4.out) (tex extra/talk4.out)
+ (tex extra/talk5.out) (tex extra/talk5.out)
 \@outlinefile=\write5
-\openout5 = `talk4.out'.
+\openout5 = `talk5.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 16.
@@ -760,148 +760,167 @@ Dictionary: translator-numbers-dictionary, Language: English
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (tex extra/talk4.nav)
+) (tex extra/talk5.nav)
 Overfull \vbox (15.63992pt too high) detected at line 17
  []
 
 [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 25.
-LaTeX Font Info:    No file OMScmss.fd. on input line 25.
+<lecturestyle1.png, id=22, 330.23375pt x 264.99pt>
+File: lecturestyle1.png Graphic file (type png)
+<use lecturestyle1.png>
+Package pdftex.def Info: lecturestyle1.png  used on input line 29.
+(pdftex.def)             Requested size: 142.26378pt x 114.16182pt.
+<bloom.jpg, id=24, 184.69pt x 254.9525pt>
+File: bloom.jpg Graphic file (type jpg)
+<use bloom.jpg>
+Package pdftex.def Info: bloom.jpg  used on input line 29.
+(pdftex.def)             Requested size: 113.81102pt x 157.108pt.
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 29.
+LaTeX Font Info:    No file OMScmss.fd. on input line 29.
 
 
 LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 25.
+(Font)              for symbol `textbullet' on input line 29.
+
+
+Overfull \vbox (5.28603pt too high) detected at line 29
+ []
 
 [2
 
-] [3
-
-] [4
-
-] [5
-
-]
-<lecturestyle1.png, id=44, 330.23375pt x 264.99pt>
-File: lecturestyle1.png Graphic file (type png)
-<use lecturestyle1.png>
-Package pdftex.def Info: lecturestyle1.png  used on input line 35.
-(pdftex.def)             Requested size: 165.11646pt x 132.49467pt.
- [6
-
- <./lecturestyle1.png>]
-<lecturestyle3.png, id=52, 343.2825pt x 265.99374pt>
-File: lecturestyle3.png Graphic file (type png)
-<use lecturestyle3.png>
-Package pdftex.def Info: lecturestyle3.png  used on input line 39.
-(pdftex.def)             Requested size: 171.64082pt x 132.99654pt.
- [7
-
- <./lecturestyle3.png>]
-<lecturestyle2.png, id=60, 328.22626pt x 263.98625pt>
-File: lecturestyle2.png Graphic file (type png)
-<use lecturestyle2.png>
-Package pdftex.def Info: lecturestyle2.png  used on input line 44.
-(pdftex.def)             Requested size: 164.11272pt x 131.9928pt.
- [8
-
- <./lecturestyle2.png>]
-File: lecturestyle2.png Graphic file (type png)
-<use lecturestyle2.png>
-Package pdftex.def Info: lecturestyle2.png  used on input line 44.
-(pdftex.def)             Requested size: 164.11272pt x 131.9928pt.
- [9
-
-]
-<ch3.png, id=72, 1212.53pt x 399.4925pt>
+ <./lecturestyle1.png> <./bloom.jpg>]
+<ch3.png, id=32, 1212.53pt x 399.4925pt>
 File: ch3.png Graphic file (type png)
 <use ch3.png>
-Package pdftex.def Info: ch3.png  used on input line 58.
+Package pdftex.def Info: ch3.png  used on input line 43.
 (pdftex.def)             Requested size: 307.28987pt x 101.24442pt.
- [10
+ [3
 
  <./ch3.png>]
 File: ch3.png Graphic file (type png)
 <use ch3.png>
-Package pdftex.def Info: ch3.png  used on input line 58.
+Package pdftex.def Info: ch3.png  used on input line 43.
 (pdftex.def)             Requested size: 307.28987pt x 101.24442pt.
- [11
+ [4
 
 ]
 File: ch3.png Graphic file (type png)
 <use ch3.png>
-Package pdftex.def Info: ch3.png  used on input line 58.
+Package pdftex.def Info: ch3.png  used on input line 43.
 (pdftex.def)             Requested size: 307.28987pt x 101.24442pt.
- [12
-
-] [13
-
-] [14
+ [5
 
 ]
-<selfregdef.png, id=100, 790.955pt x 220.825pt>
+<kumashiro.jpg, id=49, 301.125pt x 450.68375pt>
+File: kumashiro.jpg Graphic file (type jpg)
+<use kumashiro.jpg>
+Package pdftex.def Info: kumashiro.jpg  used on input line 57.
+(pdftex.def)             Requested size: 85.35826pt x 127.75163pt.
+<danny.jpg, id=50, 301.125pt x 401.5pt>
+File: danny.jpg Graphic file (type jpg)
+<use danny.jpg>
+Package pdftex.def Info: danny.jpg  used on input line 57.
+(pdftex.def)             Requested size: 85.35826pt x 113.80992pt.
+<rochelle.jpg, id=51, 58.7796pt x 70.3428pt>
+File: rochelle.jpg Graphic file (type jpg)
+<use rochelle.jpg>
+Package pdftex.def Info: rochelle.jpg  used on input line 57.
+(pdftex.def)             Requested size: 85.35826pt x 102.15973pt.
+ [6
+
+ <./kumashiro.jpg> <./danny.jpg> <./rochelle.jpg>]
+File: kumashiro.jpg Graphic file (type jpg)
+<use kumashiro.jpg>
+Package pdftex.def Info: kumashiro.jpg  used on input line 57.
+(pdftex.def)             Requested size: 85.35826pt x 127.75163pt.
+File: danny.jpg Graphic file (type jpg)
+<use danny.jpg>
+Package pdftex.def Info: danny.jpg  used on input line 57.
+(pdftex.def)             Requested size: 85.35826pt x 113.80992pt.
+File: rochelle.jpg Graphic file (type jpg)
+<use rochelle.jpg>
+Package pdftex.def Info: rochelle.jpg  used on input line 57.
+(pdftex.def)             Requested size: 85.35826pt x 102.15973pt.
+ [7
+
+]
+File: kumashiro.jpg Graphic file (type jpg)
+<use kumashiro.jpg>
+Package pdftex.def Info: kumashiro.jpg  used on input line 57.
+(pdftex.def)             Requested size: 85.35826pt x 127.75163pt.
+File: danny.jpg Graphic file (type jpg)
+<use danny.jpg>
+Package pdftex.def Info: danny.jpg  used on input line 57.
+(pdftex.def)             Requested size: 85.35826pt x 113.80992pt.
+File: rochelle.jpg Graphic file (type jpg)
+<use rochelle.jpg>
+Package pdftex.def Info: rochelle.jpg  used on input line 57.
+(pdftex.def)             Requested size: 85.35826pt x 102.15973pt.
+ [8
+
+]
+<selfregdef.png, id=68, 790.955pt x 220.825pt>
 File: selfregdef.png Graphic file (type png)
 <use selfregdef.png>
-Package pdftex.def Info: selfregdef.png  used on input line 79.
+Package pdftex.def Info: selfregdef.png  used on input line 66.
 (pdftex.def)             Requested size: 316.3764pt x 88.32843pt.
 
-Overfull \hbox (9.08653pt too wide) in paragraph at lines 79--79
+Overfull \hbox (9.08653pt too wide) in paragraph at lines 66--66
  [] 
  []
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 79.
+LaTeX Font Info:    Try loading font information for U+msa on input line 66.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 79.
+LaTeX Font Info:    Try loading font information for U+msb on input line 66.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input line 79.
+LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input line 66.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/mathkerncmss.
-) [15
+) [9
 
- <./selfregdef.png>] [16
+ <./selfregdef.png>] [10
 
-] [17
+] [11
 
-] [18
+] [12
 
-] [19
-
-] [20
+] [13
 
 ]
-<ch.jpg, id=134, 3734.95375pt x 1155.31625pt>
+<ch.jpg, id=97, 3734.95375pt x 1155.31625pt>
 File: ch.jpg Graphic file (type jpg)
 <use ch.jpg>
-Package pdftex.def Info: ch.jpg  used on input line 124.
+Package pdftex.def Info: ch.jpg  used on input line 108.
 (pdftex.def)             Requested size: 307.28987pt x 95.03622pt.
- [21
+ [14
 
- <./ch.jpg>] [22
+ <./ch.jpg>] [15
 
-] [23
+] [16
 
 ]
 \tf@nav=\write6
-\openout6 = `talk4.nav'.
+\openout6 = `talk5.nav'.
 
 \tf@toc=\write7
-\openout7 = `talk4.toc'.
+\openout7 = `talk5.toc'.
 
 \tf@snm=\write8
-\openout8 = `talk4.snm'.
+\openout8 = `talk5.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 142.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 142.
- (tex extra/talk4.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 142.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 142.
-Package rerunfilecheck Info: File `talk4.out' has not changed.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 131.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 131.
+ (tex extra/talk5.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 131.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 131.
+Package rerunfilecheck Info: File `talk5.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
@@ -909,18 +928,18 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 20283 strings out of 492982
- 406008 string characters out of 6132527
- 465375 words of memory out of 5000000
- 23345 multiletter control sequences out of 15000+600000
- 12297 words of font info for 44 fonts, out of 8000000 for 9000
+ 20270 strings out of 492982
+ 405897 string characters out of 6132527
+ 466375 words of memory out of 5000000
+ 23344 multiletter control sequences out of 15000+600000
+ 12591 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,14n,95p,1901b,809s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "tex extra/talk4.pdf" (23 pages, 1659492 bytes).
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on "tex extra/talk5.pdf" (16 pages, 1768466 bytes).
 PDF statistics:
- 184 PDF objects out of 1000 (max. 8388607)
- 134 compressed objects within 2 object streams
- 47 named destinations out of 1000 (max. 500000)
- 73 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 139 PDF objects out of 1000 (max. 8388607)
+ 98 compressed objects within 1 object stream
+ 33 named destinations out of 1000 (max. 500000)
+ 83 words of extra memory for PDF output out of 10000 (max. 10000000)
 
