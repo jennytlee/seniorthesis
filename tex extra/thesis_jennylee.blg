@@ -1,9 +1,8 @@
 This is BibTeX, Version 0.99d (TeX Live 2017)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: thesis_jennylee.aux
-A level-1 auxiliary file: outline.aux
 A level-1 auxiliary file: intro.aux
-A level-1 auxiliary file: motivation.aux
+A level-1 auxiliary file: fair.aux
 A level-1 auxiliary file: srdef.aux
 A level-1 auxiliary file: casestudy.aux
 The style file: hmcmath.bst
@@ -20,7 +19,6 @@ Warning--entry type for "noauthor_mathematics_nodate" isn't style-file defined
 --line 514 of file annotatedbib.bib
 Warning--entry type for "thevenin_mentors_2007" isn't style-file defined
 --line 658 of file annotatedbib.bib
-Warning--I didn't find a database entry for "macartney"
 Warning--I didn't find a database entry for "zeider"
 Warning--I didn't find a database entry for "dunlap_custom"
 Warning--I didn't find a database entry for "dunlap_ld"
@@ -184,7 +182,7 @@ while executing---line 1757 of file hmcmath.bst
 Warning--empty journal in zollinger_impact_2017
 You've used 48 entries,
             3501 wiz_defined-function locations,
-            963 strings with 16034 characters,
+            961 strings with 16008 characters,
 and the built_in function-call counts, 43103 in all, are:
 = -- 4836
 > -- 1120

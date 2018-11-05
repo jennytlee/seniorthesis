@@ -1,12 +1,12 @@
 # Fdb version 3
-["pdflatex"] 1540800256 "motivation.tex" "tex extra/motivation.pdf" "motivation" 1540800257
+["pdflatex"] 1541426634 "motivation.tex" "tex extra/motivation.pdf" "motivation" 1541426635
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1480098701 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf" 1518824182 33095 db9a077a3f94a5d0b580d566a7906714 ""
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1519003040 4131493 a1700a3303bc52edd52ffeef26b2c1de ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "motivation.tex" 1540800255 7875 5d378168f46bb0328426e4e661b992f6 ""
-  "tex extra/motivation.aux" 1540799480 1315 2016de5cdd631cd3e61c50ec1e6c8088 ""
+  "motivation.tex" 1541426633 7875 5d378168f46bb0328426e4e661b992f6 ""
+  "tex extra/motivation.aux" 1541425532 1334 2130319e2ee7677f1af67ded51a74e60 ""
   (generated)
-  "tex extra/motivation.log"
   "tex extra/motivation.pdf"
+  "tex extra/motivation.log"
