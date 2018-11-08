@@ -1,10 +1,12 @@
 # Fdb version 3
-["pdflatex"] 1540905191 "outline.tex" "tex extra/outline.pdf" "outline" 1540905193
+["pdflatex"] 1541444874 "outline.tex" "tex extra/outline.pdf" "outline" 1541444877
+  "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
+  "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1480098701 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "/usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf" 1518824182 33095 db9a077a3f94a5d0b580d566a7906714 ""
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1519003040 4131493 a1700a3303bc52edd52ffeef26b2c1de ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "outline.tex" 1540905190 6606 9fabcedc02392b365e1b29cf113a9cd0 ""
-  "tex extra/outline.aux" 1540838312 868 b8ef827d95971eb855e7f1eaf3209a64 ""
+  "outline.tex" 1541444874 7174 8f990e23a3c5b9fa5c70779101daba3e ""
+  "tex extra/outline.aux" 1541435224 868 b8ef827d95971eb855e7f1eaf3209a64 ""
   (generated)
   "tex extra/outline.pdf"
   "tex extra/outline.log"

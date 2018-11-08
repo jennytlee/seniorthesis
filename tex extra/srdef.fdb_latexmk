@@ -1,12 +1,12 @@
 # Fdb version 3
-["pdflatex"] 1541435195 "srdef.tex" "tex extra/srdef.pdf" "srdef" 1541435196
+["pdflatex"] 1541639694 "srdef.tex" "tex extra/srdef.pdf" "srdef" 1541639696
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1480098701 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "/usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf" 1518824182 33095 db9a077a3f94a5d0b580d566a7906714 ""
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1519003040 4131493 a1700a3303bc52edd52ffeef26b2c1de ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "srdef.tex" 1541435195 14292 dba928c57de0aac6f1650eb5a78aed15 ""
-  "tex extra/srdef.aux" 1541434973 1766 4ccbd2d18d8e11f3e473b9603b1e21f3 ""
+  "srdef.tex" 1541639693 14697 36ff8a0754c5cb0ea11f2545244977a8 ""
+  "tex extra/srdef.aux" 1541596805 1500 f028f14a574766d4481a10cb65fdf2b4 ""
   (generated)
   "tex extra/srdef.pdf"
   "tex extra/srdef.log"

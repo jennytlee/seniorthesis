@@ -1,13 +1,13 @@
 # Fdb version 3
-["pdflatex"] 1541434883 "fair.tex" "tex extra/fair.pdf" "fair" 1541434888
+["pdflatex"] 1541640382 "fair.tex" "tex extra/fair.pdf" "fair" 1541640384
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1480098701 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1480098701 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "/usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf" 1518824182 33095 db9a077a3f94a5d0b580d566a7906714 ""
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1519003040 4131493 a1700a3303bc52edd52ffeef26b2c1de ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "fair.tex" 1541434882 14673 ab9d3e2f8fcbd7af66b919fa2f2055dd ""
-  "tex extra/fair.aux" 1541434455 2001 d0d9fee89db6085dd09257703b6f23ac ""
+  "fair.tex" 1541640382 16528 7f0ac475b84a164442bb9a717b57880a ""
+  "tex extra/fair.aux" 1541596805 2001 4320378aed847acb355dfc5d7c37bdf1 ""
   (generated)
   "tex extra/fair.pdf"
   "tex extra/fair.log"

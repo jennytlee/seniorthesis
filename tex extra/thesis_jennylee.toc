@@ -12,21 +12,24 @@
 \contentsline {subsubsection}{A focus on self-regulation}{8}{section*.6}
 \contentsline {subsection}{\numberline {2.2.3}Inequity and Underrepresentation}{9}{subsection.2.2.3}
 \contentsline {section}{\numberline {2.3}Self-paced assessment}{10}{section.2.3}
-\contentsline {chapter}{\numberline {3}In context, math is not fair.}{11}{chapter.3}
-\contentsline {section}{\numberline {3.1}Implicit Biases by Instructors}{11}{section.3.1}
-\contentsline {section}{\numberline {3.2}Structural Biases by Institutions}{13}{section.3.2}
-\contentsline {section}{\numberline {3.3}Cultural Obstructions}{14}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}There is oppression.}{14}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}This is a racial project.}{15}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}It is possible to change.}{17}{subsection.3.3.3}
-\contentsline {chapter}{\numberline {4}Self-Regulation}{19}{chapter.4}
-\contentsline {section}{\numberline {4.1}Definition}{19}{section.4.1}
-\contentsline {section}{\numberline {4.2}Self-Assessment and Evaluation}{21}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Self-Instruction}{22}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Self-Monitoring}{22}{subsection.4.2.2}
-\contentsline {section}{\numberline {4.3}An example of self-assessment: self-paced assessment.}{23}{section.4.3}
-\contentsline {chapter}{\numberline {5}The case study}{25}{chapter.5}
-\contentsline {section}{\numberline {5.1}Introduction}{25}{section.5.1}
-\contentsline {section}{\numberline {5.2}A (not so) brief note on Mudd}{25}{section.5.2}
-\contentsline {subsubsection}{The Honor Code}{26}{section*.10}
-\contentsline {section}{\numberline {5.3}Method}{26}{section.5.3}
+\contentsline {chapter}{\numberline {3}In context, math is not fair.}{13}{chapter.3}
+\contentsline {section}{\numberline {3.1}Implicit Biases by Instructors}{13}{section.3.1}
+\contentsline {section}{\numberline {3.2}Structural Biases by Institutions}{15}{section.3.2}
+\contentsline {section}{\numberline {3.3}Cultural Obstructions}{16}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}There is oppression.}{16}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}This is a racial project.}{17}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}It is possible to change.}{19}{subsection.3.3.3}
+\contentsline {chapter}{\numberline {4}Self-Regulation}{21}{chapter.4}
+\contentsline {section}{\numberline {4.1}Definition}{21}{section.4.1}
+\contentsline {section}{\numberline {4.2}In history.}{22}{section.4.2}
+\contentsline {section}{\numberline {4.3}Self-Assessment and Evaluation}{23}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Self-Instruction}{24}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Self-Monitoring}{24}{subsection.4.3.2}
+\contentsline {section}{\numberline {4.4}An example of self-assessment: self-paced assessment.}{25}{section.4.4}
+\contentsline {chapter}{\numberline {5}The case study}{29}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction}{29}{section.5.1}
+\contentsline {section}{\numberline {5.2}Method}{29}{section.5.2}
+\contentsline {section}{\numberline {5.3}Results}{30}{section.5.3}
+\contentsline {section}{\numberline {5.4}Discussion}{30}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}A (not so) brief note on Mudd}{30}{subsection.5.4.1}
+\contentsline {subsubsection}{The Honor Code}{30}{section*.10}
