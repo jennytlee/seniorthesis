@@ -3,50 +3,75 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: thesis_jennylee.aux
 A level-1 auxiliary file: intro.aux
 A level-1 auxiliary file: fair.aux
+A level-1 auxiliary file: srdef.aux
 A level-1 auxiliary file: casestudy.aux
 The style file: hmcmath.bst
-I found no \citation commands---while reading file thesis_jennylee.aux
 Database file #1: annotatedbib.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-You've used 0 entries,
+Warning--to sort, need author or key in noauthor_self-regulation:_nodate
+Warning--to sort, need author or key in noauthor_mathematics_nodate
+Warning--to sort, need author or key in noauthor_legacy_nodate
+Warning--to sort, need author or key in noauthor_widening_nodate
+Warning--to sort, need author or key in noauthor_black-white_nodate
+Warning--to sort, need author or key in noauthor_self-monitoring_nodate
+Warning--to sort, need author or key in noauthor_pdf_nodate
+Warning--empty year in noauthor_black-white_nodate; set to ????
+Warning--empty year in noauthor_legacy_nodate; set to ????
+Warning--empty year in noauthor_mathematics_nodate; set to ????
+Warning--empty year in noauthor_pdf_nodate; set to ????
+Warning--empty year in noauthor_self-monitoring_nodate; set to ????
+Warning--empty year in noauthor_self-regulation:_nodate; set to ????
+Warning--empty year in noauthor_widening_nodate; set to ????
+`journal' is a missing field, not a string, for entry gutierrez_living_2017
+while executing---line 1757 of file hmcmath.bst
+Warning--empty journal in gutierrez_living_2017
+`journal' is a missing field, not a string, for entry mcquarrie_changes_2016
+while executing---line 1757 of file hmcmath.bst
+Warning--empty journal in mcquarrie_changes_2016
+Warning--empty year in musu-gillette_status_nodate; set to ????
+`journal' is a missing field, not a string, for entry musu-gillette_status_nodate
+while executing---line 1757 of file hmcmath.bst
+Warning--empty journal in musu-gillette_status_nodate
+Warning--missing publisher in travers_changes_2000
+You've used 64 entries,
             3501 wiz_defined-function locations,
-            690 strings with 5086 characters,
-and the built_in function-call counts, 37 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 2
-:= -- 8
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
-chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 1
-int.to.chr$ -- 1
+            1102 strings with 21844 characters,
+and the built_in function-call counts, 68713 in all, are:
+= -- 7651
+> -- 1478
+< -- 34
++ -- 732
+- -- 441
+* -- 4504
+:= -- 8005
+add.period$ -- 325
+call.type$ -- 64
+change.case$ -- 466
+chr.to.int$ -- 58
+cite$ -- 97
+duplicate$ -- 7089
+empty$ -- 4995
+format.name$ -- 607
+if$ -- 14161
+int.to.chr$ -- 7
 int.to.str$ -- 1
-missing$ -- 0
-newline$ -- 11
-num.names$ -- 0
-pop$ -- 0
+missing$ -- 606
+newline$ -- 398
+num.names$ -- 230
+pop$ -- 2050
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 402
 quote$ -- 0
-skip$ -- 1
+skip$ -- 2978
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
-text.length$ -- 0
+substring$ -- 5293
+swap$ -- 4166
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
-warning$ -- 0
-while$ -- 0
+type$ -- 561
+warning$ -- 19
+while$ -- 333
 width$ -- 0
-write$ -- 10
-(There was 1 error message)
+write$ -- 960
+(There were 3 error messages)

@@ -1,10 +1,12 @@
 # Fdb version 3
-["pdflatex"] 1541647986 "casestudy.tex" "tex extra/casestudy.pdf" "casestudy" 1541647986
+["pdflatex"] 1541732890 "casestudy.tex" "tex extra/casestudy.pdf" "casestudy" 1541732891
+  "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
+  "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1480098701 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "/usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf" 1518824182 33095 db9a077a3f94a5d0b580d566a7906714 ""
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1519003040 4131493 a1700a3303bc52edd52ffeef26b2c1de ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "casestudy.tex" 1541647985 5160 257aa12a514762f1902736030292c9e7 ""
-  "tex extra/casestudy.aux" 1541647892 1242 96ee625ca04f82a23edace5c9b7238b0 ""
+  "casestudy.tex" 1541732890 8889 ac33dbaf984da6594e8887486269035e ""
+  "tex extra/casestudy.aux" 1541732293 1523 b9248f4878e980e3c5cd16ec99eb1765 ""
   (generated)
   "tex extra/casestudy.pdf"
   "tex extra/casestudy.log"
