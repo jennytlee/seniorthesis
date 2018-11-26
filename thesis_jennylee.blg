@@ -1,0 +1,33 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: thesis_jennylee.aux
+A level-1 auxiliary file: intro.aux
+A level-1 auxiliary file: fair.aux
+A level-1 auxiliary file: srdef.aux
+A level-1 auxiliary file: casestudy.aux
+The style file: hmcmath.bst
+Database file #1: annotatedbib.bib
+Warning--to sort, need author or key in noauthor_self-regulation:_nodate
+Warning--to sort, need author or key in noauthor_mathematics_nodate
+Warning--to sort, need author or key in noauthor_legacy_nodate
+Warning--to sort, need author or key in noauthor_widening_nodate
+Warning--to sort, need author or key in noauthor_black-white_nodate
+Warning--to sort, need author or key in noauthor_self-monitoring_nodate
+Warning--to sort, need author or key in noauthor_pdf_nodate
+Warning--empty year in noauthor_black-white_nodate; set to ????
+Warning--empty year in noauthor_legacy_nodate; set to ????
+Warning--empty year in noauthor_mathematics_nodate; set to ????
+Warning--empty year in noauthor_pdf_nodate; set to ????
+Warning--empty year in noauthor_self-monitoring_nodate; set to ????
+Warning--empty year in noauthor_self-regulation:_nodate; set to ????
+Warning--empty year in noauthor_widening_nodate; set to ????
+`journal' is a missing field, not a string, for entry gutierrez_living_2017
+while executing---line 1757 of file hmcmath.bst
+Warning--empty journal in gutierrez_living_2017
+`journal' is a missing field, not a string, for entry mcquarrie_changes_2016
+while executing---line 1757 of file hmcmath.bst
+Warning--empty journal in mcquarrie_changes_2016
+Warning--empty year in musu-gillette_status_nodate; set to ????
+`journal' is a missing field, not a string, for entry musu-gillette_status_nodate
+while executing---line 1757 of file hmcmath.bst
+Warning--empty journal in musu-gillette_status_nodate
+Warning--missing publisher in travers_changes_2000
+(There were 3 error messages)
