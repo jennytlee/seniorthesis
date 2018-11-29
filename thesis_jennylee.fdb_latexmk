@@ -1,5 +1,5 @@
 # Fdb version 3
-["bibtex thesis_jennylee"] 1543464990 "thesis_jennylee.aux" "thesis_jennylee.bbl" "thesis_jennylee" 1543465008
+["bibtex thesis_jennylee"] 1543464990 "thesis_jennylee.aux" "thesis_jennylee.bbl" "thesis_jennylee" 1543465287
   "annotatedbib.bib" 1541733151 97457 b98f3a13c28a51929934910f152ad411 ""
   "casestudy.aux" 1543465003 3323 2ad92d991fd1b6101947a4f840bf75b4 ""
   "fair.aux" 1543465002 2016 97d5f1756d973ebc88567912ba90fd46 ""
@@ -8,9 +8,9 @@
   "srdef.aux" 1543465003 1529 c03f64d7d717d785ce418f94bb79ceb7 ""
   "thesis_jennylee.aux" 1543465004 7340 868019b77fbabfad169510082ccc9310 ""
   (generated)
-  "thesis_jennylee.blg"
   "thesis_jennylee.bbl"
-["pdflatex"] 1543464991 "thesis_jennylee.tex" "thesis_jennylee.pdf" "thesis_jennylee" 1543465008
+  "thesis_jennylee.blg"
+["pdflatex"] 1543464991 "thesis_jennylee.tex" "thesis_jennylee.pdf" "thesis_jennylee" 1543465287
   "/Users/jennylee/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1542589295 751107 a1886ca0b28af305061230b36bde8810 ""
   "/Users/jennylee/Library/Application Support/MiKTeX/texmfs/data/pdftex/config/pdftex.map" 1543353856 234032 ab2ba0d364af184166f1c55307623194 ""
   "/Users/jennylee/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc" 1458473887 4993 1194fb36dfcb11d9ae9802f2b00b60a3 ""
@@ -182,12 +182,12 @@
   "thesis_jennylee.tex" 1543190329 14568 74fc4552efe0c6aacbe3b45cc4c092f3 ""
   "thesis_jennylee.toc" 1543465004 5016 8642073e5cb3b2354edfe9830905fd64 ""
   (generated)
-  "thesis_jennylee.out"
-  "srdef.aux"
   "casestudy.aux"
-  "thesis_jennylee.aux"
-  "intro.aux"
-  "thesis_jennylee.pdf"
   "fair.aux"
+  "srdef.aux"
   "thesis_jennylee.log"
+  "thesis_jennylee.aux"
   "thesis_jennylee.toc"
+  "thesis_jennylee.pdf"
+  "intro.aux"
+  "thesis_jennylee.out"
