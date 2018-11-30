@@ -296,6 +296,9 @@ INPUT /Users/jennylee/Library/Application Support/MiKTeX/texmfs/install/fonts/tf
 INPUT /Users/jennylee/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/newpx/zplexa.tfm
 INPUT /Users/jennylee/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/newpx/zplexa.tfm
 OUTPUT thesis_jennylee.toc
+INPUT thesis_jennylee.lot
+INPUT thesis_jennylee.lot
+OUTPUT thesis_jennylee.lot
 OUTPUT intro.aux
 INPUT intro.tex
 INPUT intro.tex

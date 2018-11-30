@@ -1,14 +1,14 @@
 \babel@toc {english}{}
 \contentsline {chapter}{Abstract}{iii}{chapter*.1}
-\contentsline {chapter}{Acknowledgments}{vii}{chapter*.3}
+\contentsline {chapter}{Acknowledgments}{ix}{chapter*.4}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Motivation}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Background}{2}{section.1.2}
 \contentsline {subsection}{\numberline {1.2.1}The status quo.}{2}{subsection.1.2.1}
 \contentsline {subsection}{\numberline {1.2.2}Pedagogical methods}{3}{subsection.1.2.2}
-\contentsline {subsubsection}{Flipped classrooms}{4}{section*.4}
-\contentsline {subsubsection}{Inquiry-based learning}{4}{section*.5}
-\contentsline {subsubsection}{A focus on self-regulation}{5}{section*.6}
+\contentsline {subsubsection}{Flipped classrooms}{4}{section*.5}
+\contentsline {subsubsection}{Inquiry-based learning}{4}{section*.6}
+\contentsline {subsubsection}{A focus on self-regulation}{5}{section*.7}
 \contentsline {subsection}{\numberline {1.2.3}Inequity and Underrepresentation}{5}{subsection.1.2.3}
 \contentsline {section}{\numberline {1.3}Self-paced assessment}{7}{section.1.3}
 \contentsline {chapter}{\numberline {2}Math is not fair.}{9}{chapter.2}
@@ -29,18 +29,18 @@
 \contentsline {section}{\numberline {4.1}Introduction}{25}{section.4.1}
 \contentsline {section}{\numberline {4.2}Method}{25}{section.4.2}
 \contentsline {section}{\numberline {4.3}Results}{27}{section.4.3}
-\contentsline {subsubsection}{1. $H_0$: Students self-assessed scores their math did not change (before $=$ after).}{27}{section*.11}
-\contentsline {subsubsection}{2. $H_0$: Students perceived their growth in mathematical knowledge eqally in both sections (quiz $=$ control).}{28}{section*.13}
-\contentsline {subsubsection}{3. $H_0$: Students perceived their growth in confidence in mathematics equally in both sections (quiz $=$ control).}{28}{section*.14}
+\contentsline {subsubsection}{1. $H_0$: Students self-assessed scores their math did not change (before $=$ after).}{27}{section*.12}
+\contentsline {subsubsection}{2. $H_0$: Students perceived their growth in mathematical knowledge eqally in both sections (quiz $=$ control).}{28}{section*.14}
+\contentsline {subsubsection}{3. $H_0$: Students perceived their growth in confidence in mathematics equally in both sections (quiz $=$ control).}{28}{section*.15}
 \contentsline {subsection}{\numberline {4.3.1}Focus Group}{28}{subsection.4.3.1}
 \contentsline {section}{\numberline {4.4}Discussion}{29}{section.4.4}
 \contentsline {subsection}{\numberline {4.4.1}A (not so) brief note on Mudd}{29}{subsection.4.4.1}
-\contentsline {subsubsection}{The Honor Code}{29}{section*.15}
-\contentsline {subsubsection}{Class sizes, college demographics}{30}{section*.16}
-\contentsline {subsubsection}{Mental Health and Wellness}{31}{section*.17}
+\contentsline {subsubsection}{The Honor Code}{29}{section*.16}
+\contentsline {subsubsection}{Class sizes, college demographics}{30}{section*.17}
+\contentsline {subsubsection}{Mental Health and Wellness}{31}{section*.18}
 \contentsline {subsection}{\numberline {4.4.2}Self-regulation in action.}{32}{subsection.4.4.2}
 \contentsline {subsection}{\numberline {4.4.3}A question to consider}{33}{subsection.4.4.3}
-\contentsline {chapter}{Bibliography}{35}{chapter*.18}
+\contentsline {chapter}{Bibliography}{35}{chapter*.19}
 \babel@toc {english}{}
 \babel@toc {english}{}
 \babel@toc {english}{}
