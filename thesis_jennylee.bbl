@@ -1,4 +1,4 @@
-\begin{thebibliography}{64}
+\begin{thebibliography}{74}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -9,72 +9,43 @@
 \providecommand{\selectlanguage}[1]{\relax}
 \providecommand{\eprint}[2][]{\url{#2}}
 
-\bibitem[{noa({\natexlab{a}})}]{noauthor_black-white_nodate}
- ????{\natexlab{a}}.
-\newblock The {Black}-{White} {Test} {Score} {Gap} - {Google} {Books}.
-\newblock
-  \urlprefix\url{https://books.google.com/books?hl=en&lr=&id=Ywb7r1oOxJYC&oi=fnd&pg=PA55&dq=Jencks,+C.+(1998).+Racial+bias+in+testing.+The+Black-White+test+score+gap,&ots=xqv_XUXalx&sig=wrDZx0ybfM-pojABFNvCmnvloZE#v=onepage&q=Jencks%2C%20C.%20(1998).%20Racial%20bias%20in%20testing.%20The%20Black-White%20test%20score%20gap%2C&f=false}.
-
-\bibitem[{noa({\natexlab{b}})}]{noauthor_legacy_nodate}
- ????{\natexlab{b}}.
-\newblock The {Legacy} of {R}. {L}. {Moore} - {R}.{L}. {Moore} and the {Moore}
-  {Method}.
-\newblock \urlprefix\url{http://legacyrlmoore.org/method.html}.
-
-\bibitem[{noa({\natexlab{c}})}]{noauthor_mathematics_nodate}
- ????{\natexlab{c}}.
-\newblock Mathematics {Education}: {A} {Spectrum} of {Work} in {Mathematical}
-  {Sciences} {Departments} - {Google} {Books}.
-\newblock
-  \urlprefix\url{https://books.google.com/books?id=yyScDQAAQBAJ&pg=PA367&lpg=PA367&dq=tpse+math&source=bl&ots=Yry0b1-Mmu&sig=BlfDpvHizURwcEtGDvAaPEoWtYc&hl=en&sa=X&ved=2ahUKEwivuaSb4ofeAhXnGDQIHQq1A9sQ6AEwDHoECAUQAQ#v=onepage&q&f=false}.
-
-\bibitem[{noa({\natexlab{d}})}]{noauthor_pdf_nodate}
- ????{\natexlab{d}}.
-\newblock {\selectlanguage{English}({PDF}) {Why} we need to rehumanize
-  mathematics}.
-\newblock
-  \urlprefix\url{https://www.researchgate.net/publication/325828845_Why_we_need_to_rehumanize_mathematics}.
-
-\bibitem[{noa({\natexlab{e}})}]{noauthor_self-monitoring_nodate}
- ????{\natexlab{e}}.
-\newblock A self-monitoring package for teaching subtraction with regrouping to
-  students with learning disabilities.
-\newblock
-  \urlprefix\url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1286182/}.
-
-\bibitem[{noa({\natexlab{f}})}]{noauthor_self-regulation:_nodate}
- ????{\natexlab{f}}.
-\newblock Self-{Regulation}: {A} {Characteristic} and a {Goal} of {Mathematics}
-  {Education} - {Handbook} of {Self}-{Regulation} - {Chapter} 21.
-\newblock
-  \urlprefix\url{https://www.sciencedirect.com/science/article/pii/B9780121098902500500}.
-
-\bibitem[{noa({\natexlab{g}})}]{noauthor_widening_nodate}
- ????{\natexlab{g}}.
-\newblock The {Widening} {Racial} {Scoring} {Gap} on the {SAT} {College}
-  {Admissions} {Test}.
-\newblock
-  \urlprefix\url{http://www.jbhe.com/features/49_college_admissions-test.html}.
-
 \bibitem[{AB and {PhD}(1992)}]{ab_getting_1992}
 AB, G. Edgar~Parker, and {PhD}. 1992.
-\newblock Getting {More} from {Moore}.
+\newblock {\selectlanguage{english}Getting {More} from {Moore}}.
 \newblock \emph{PRIMUS} 2(3):235--246.
 \newblock \doi{10.1080/10511979208965666}.
 \newblock \urlprefix\url{https://doi.org/10.1080/10511979208965666}.
 
 \bibitem[{Abakpa and Iji(2011)}]{abakpa_effect_2011}
 Abakpa, Benjamin~O., and Clement~O. Iji. 2011.
-\newblock Effect of mastery learning approach on senior secondary school
-  students’ achievement in geometry.
+\newblock {\selectlanguage{english}Effect of mastery learning approach on
+  senior secondary school students’ achievement in geometry}.
 \newblock \emph{Journal of the Science Teachers Association of Nigeria}
   46(1):165--177.
+
+\bibitem[{Abouserie(1994)}]{abouserie_sources_1994}
+Abouserie, Reda. 1994.
+\newblock {\selectlanguage{english}Sources and {Levels} of {Stress} in
+  {Relation} to {Locus} of {Control} and {Self} {Esteem} in {University}
+  {Students}}.
+\newblock \emph{Educational Psychology} 14(3):323--330.
+\newblock \doi{10.1080/0144341940140306}.
+\newblock \urlprefix\url{https://doi.org/10.1080/0144341940140306}.
+
+\bibitem[{Andrews and Wilding(2004)}]{andrews_relation_2004}
+Andrews, Bernice, and John~M. Wilding. 2004.
+\newblock {\selectlanguage{english}The relation of depression and anxiety to
+  life-stress and achievement in students}.
+\newblock \emph{British Journal of Psychology} 95(4):509--521.
+\newblock \doi{10.1348/0007126042369802}.
+\newblock
+  \urlprefix\url{https://onlinelibrary.wiley.com/doi/abs/10.1348/0007126042369802}.
 
 \bibitem[{Annamma et~al.(2016)Annamma, Anyon, Joseph, Farrar, Greer, Downing,
   and Simmons}]{annamma_black_2016}
 Annamma, Subini~Ancy, Yolanda Anyon, Nicole~M. Joseph, Jordan Farrar, Eldridge
   Greer, Barbara Downing, and John Simmons. 2016.
-\newblock {\selectlanguage{English}Black {Girls} and {School} {Discipline}:
+\newblock {\selectlanguage{english}Black {Girls} and {School} {Discipline}:
   {The} {Complexities} of {Being} {Overrepresented} and {Understudied}}.
 \newblock \emph{Urban Education} 004208591664661.
 \newblock \doi{10.1177/0042085916646610}.
@@ -83,7 +54,7 @@ Annamma, Subini~Ancy, Yolanda Anyon, Nicole~M. Joseph, Jordan Farrar, Eldridge
 
 \bibitem[{Ariovich and Walker(2014)}]{ariovich_assessing_2014}
 Ariovich, Laura, and Sadé~A. Walker. 2014.
-\newblock {\selectlanguage{English}Assessing {Course} {Redesign}: {The} {Case}
+\newblock {\selectlanguage{english}Assessing {Course} {Redesign}: {The} {Case}
   of {Developmental} {Math}}.
 \newblock \emph{Research \& Practice in Assessment} 9:45--57.
 \newblock \urlprefix\url{https://eric.ed.gov/?id=EJ1062722}.
@@ -91,7 +62,7 @@ Ariovich, Laura, and Sadé~A. Walker. 2014.
 \bibitem[{Badger et~al.(2018)Badger, Miller, Pearce, and
   Quealy}]{badger_extensive_2018}
 Badger, Emily, Claire~Cain Miller, Adam Pearce, and Kevin Quealy. 2018.
-\newblock {\selectlanguage{English}Extensive {Data} {Shows} {Punishing} {Reach}
+\newblock {\selectlanguage{english}Extensive {Data} {Shows} {Punishing} {Reach}
   of {Racism} for {Black} {Boys}}.
 \newblock \emph{The New York Times}
   \urlprefix\url{https://www.nytimes.com/interactive/2018/03/19/upshot/race-class-white-and-black-men.html,
@@ -99,7 +70,7 @@ Badger, Emily, Claire~Cain Miller, Adam Pearce, and Kevin Quealy. 2018.
 
 \bibitem[{Battey and Leyva(2016)}]{battey_framework_2016}
 Battey, Dan, and Luis~A. Leyva. 2016.
-\newblock {\selectlanguage{English}A {Framework} for {Understanding}
+\newblock {\selectlanguage{english}A {Framework} for {Understanding}
   {Whiteness} in {Mathematics} {Education}}.
 \newblock \emph{Journal of Urban Mathematics Education} 9(2).
 \newblock
@@ -108,7 +79,7 @@ Battey, Dan, and Luis~A. Leyva. 2016.
 \bibitem[{Blair et~al.(2018)Blair, Kirkman, and
   Maxwell}]{blair_statistical_2018}
 Blair, Richelle, Ellen Kirkman, and James Maxwell. 2018.
-\newblock {\selectlanguage{English}Statistical {Abstract} of {Undergraduate}
+\newblock {\selectlanguage{english}Statistical {Abstract} of {Undergraduate}
   {Programs} in the {Mathematical} {Sciences} in the {United} {States}: {Fall}
   2015 {CBMS} {Survey}}.
 \newblock Tech. rep., American Mathematical Society.
@@ -118,12 +89,12 @@ Blair, Richelle, Ellen Kirkman, and James Maxwell. 2018.
 
 \bibitem[{Bligh(1998)}]{bligh_whats_1998}
 Bligh, Donald~A. 1998.
-\newblock {\selectlanguage{English}\emph{What's the {Use} of {Lectures}?}}
+\newblock {\selectlanguage{english}\emph{What's the {Use} of {Lectures}?}}
 \newblock Intellect Books.
 
 \bibitem[{Bloom(1968)}]{bloom_learning_1968}
 Bloom, Benjamin~S. 1968.
-\newblock {\selectlanguage{English}Learning for {Mastery}. {Instruction} and
+\newblock {\selectlanguage{english}Learning for {Mastery}. {Instruction} and
   {Curriculum}. {Regional} {Education} {Laboratory} for the {Carolinas} and
   {Virginia}, {Topical} {Papers} and {Reprints}, {Number} 1}.
 \newblock \emph{Evaluation Comment} 1(2).
@@ -131,14 +102,14 @@ Bloom, Benjamin~S. 1968.
 
 \bibitem[{Bradley(2017)}]{bradley_evaluating_2017}
 Bradley, Kirk. 2017.
-\newblock \emph{Evaluating the effects of mastery learning in postsecondary
-  developmental mathematics}.
+\newblock {\selectlanguage{english}\emph{Evaluating the effects of mastery
+  learning in postsecondary developmental mathematics}}.
 \newblock Ph.D. thesis, ProQuest Information \& Learning, US.
 
 \bibitem[{Buchmann et~al.(2010)Buchmann, Condron, and
   Roscigno}]{buchmann_shadow_2010}
 Buchmann, Claudia, Dennis~J. Condron, and Vincent~J. Roscigno. 2010.
-\newblock {\selectlanguage{English}Shadow {Education}, {American} {Style}:
+\newblock {\selectlanguage{english}Shadow {Education}, {American} {Style}:
   {Test} {Preparation}, the {SAT} and {College} {Enrollment}}.
 \newblock \emph{Social Forces} 89(2):435--461.
 \newblock \doi{10.1353/sof.2010.0105}.
@@ -146,8 +117,8 @@ Buchmann, Claudia, Dennis~J. Condron, and Vincent~J. Roscigno. 2010.
 
 \bibitem[{Burris and Schroeder(1972)}]{burris_developmental_1972}
 Burris, Joanna~S., and Lee Schroeder. 1972.
-\newblock Developmental {Mathematics}: {Self}-{Instruction} with {Mathematics}
-  {Laboratory}.
+\newblock {\selectlanguage{english}Developmental {Mathematics}:
+  {Self}-{Instruction} with {Mathematics} {Laboratory}}.
 \newblock \emph{The Two-Year College Mathematics Journal} 3(1):16--22.
 \newblock \doi{10.2307/3026792}.
 \newblock \urlprefix\url{http://www.jstor.org/stable/3026792}.
@@ -155,17 +126,27 @@ Burris, Joanna~S., and Lee Schroeder. 1972.
 \bibitem[{Busato et~al.(2000)Busato, Prins, Elshout, and
   Hamaker}]{busato_intellectual_2000}
 Busato, Vittorio~V, Frans~J Prins, Jan~J Elshout, and Christiaan Hamaker. 2000.
-\newblock Intellectual ability, learning style, personality, achievement
-  motivation and academic success of psychology students in higher education.
+\newblock {\selectlanguage{english}Intellectual ability, learning style,
+  personality, achievement motivation and academic success of psychology
+  students in higher education}.
 \newblock \emph{Personality and Individual Differences} 29(6):1057--1068.
 \newblock \doi{10.1016/S0191-8869(99)00253-6}.
 \newblock
   \urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0191886999002536}.
 
+\bibitem[{Card and Rothstein(2007)}]{card_racial_2007}
+Card, David, and Jesse Rothstein. 2007.
+\newblock {\selectlanguage{english}Racial segregation and the black–white
+  test score gap}.
+\newblock \emph{Journal of Public Economics} 91(11):2158--2184.
+\newblock \doi{10.1016/j.jpubeco.2007.03.006}.
+\newblock
+  \urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0047272707000503}.
+
 \bibitem[{Chen and Chiu(2016)}]{chen_collaboration_2016}
 Chen, Cheng-Huan1, and Chiung-Hui1 Chiu, cchui@ntnu.edu.tw. 2016.
-\newblock Collaboration {Scripts} for {Enhancing} {Metacognitive}
-  {Self}-regulation and {Mathematics} {Literacy}.
+\newblock {\selectlanguage{english}Collaboration {Scripts} for {Enhancing}
+  {Metacognitive} {Self}-regulation and {Mathematics} {Literacy}}.
 \newblock \emph{International Journal of Science \& Mathematics Education}
   14(2):263--280.
 \newblock \doi{10.1007/s10763-015-9681-y}.
@@ -174,7 +155,7 @@ Chen, Cheng-Huan1, and Chiung-Hui1 Chiu, cchui@ntnu.edu.tw. 2016.
 
 \bibitem[{Cheung et~al.(2018)Cheung, Mak, and Sit}]{cheung_resolving_2018}
 Cheung, Kwok-cheung, Soi-kei Mak, and Pou-seong Sit. 2018.
-\newblock {\selectlanguage{English}Resolving the attitude–achievement paradox
+\newblock {\selectlanguage{english}Resolving the attitude–achievement paradox
   based on anchoring vignettes: evidences from the {PISA} 2012 mathematics
   study}.
 \newblock \emph{Asia Pacific Education Review} 1--11.
@@ -184,15 +165,34 @@ Cheung, Kwok-cheung, Soi-kei Mak, and Pou-seong Sit. 2018.
 
 \bibitem[{Cohen(1982)}]{cohen_modified_1982}
 Cohen, David~W. 1982.
-\newblock A {Modified} {Moore} {Method} for {Teaching} {Undergraduate}
-  {Mathematics}.
+\newblock {\selectlanguage{english}A {Modified} {Moore} {Method} for {Teaching}
+  {Undergraduate} {Mathematics}}.
 \newblock \emph{The American Mathematical Monthly} 89(7):473--490.
 \newblock \doi{10.2307/2321385}.
 \newblock \urlprefix\url{https://www.jstor.org/stable/2321385}.
 
+\bibitem[{Corte et~al.(2000)Corte, Verschaffel, and Eynde}]{corte_chapter_2000}
+Corte, Erik~de, Lieven Verschaffel, and Peter~Op't Eynde. 2000.
+\newblock {\selectlanguage{english}Chapter 21 - {Self}-{Regulation}: {A}
+  {Characteristic} and a {Goal} of {Mathematics} {Education}}.
+\newblock In \emph{Handbook of {Self}-{Regulation}}, eds. Monique Boekaerts,
+  Paul~R. Pintrich, and Moshe Zeidner, 687--726. San Diego: Academic Press.
+\newblock \doi{10.1016/B978-012109890-2/50050-0}.
+\newblock
+  \urlprefix\url{http://www.sciencedirect.com/science/article/pii/B9780121098902500500}.
+
+\bibitem[{Crawley and Hirschfield(2018)}]{crawley_examining_2018}
+Crawley, Kayla, and Paul Hirschfield. 2018.
+\newblock {\selectlanguage{english}Examining the {School}-to-{Prison}
+  {Pipeline} {Metaphor}}.
+\newblock \emph{Oxford Research Encyclopedia of Criminology and Criminal
+  Justice} \doi{10.1093/acrefore/9780190264079.013.346}.
+\newblock
+  \urlprefix\url{http://oxfordre.com/view/10.1093/acrefore/9780190264079.001.0001/acrefore-9780190264079-e-346}.
+
 \bibitem[{Dewar et~al.(2016)Dewar, Hsu, and Pollatsek}]{dewar_mathematics_2016}
 Dewar, Jacqueline, Pao-sheng Hsu, and Harriet Pollatsek. 2016.
-\newblock {\selectlanguage{English}\emph{Mathematics {Education}: {A}
+\newblock {\selectlanguage{english}\emph{Mathematics {Education}: {A}
   {Spectrum} of {Work} in {Mathematical} {Sciences} {Departments}}}.
 \newblock Springer.
 \newblock Google-Books-ID: yyScDQAAQBAJ.
@@ -200,15 +200,24 @@ Dewar, Jacqueline, Pao-sheng Hsu, and Harriet Pollatsek. 2016.
 \bibitem[{Dixon-Roman et~al.(2013)Dixon-Roman, Everson, and
   Mcardle}]{dixon-roman_race_2013}
 Dixon-Roman, Ezekiel, Howard Everson, and John Mcardle. 2013.
-\newblock Race, {Poverty} and {SAT} {Scores}: {Modeling} the {Influences} of
-  {Family} {Income} on {Black} and {White} {High} {School} {Students}' {SAT}
-  {Performance}.
+\newblock {\selectlanguage{english}Race, {Poverty} and {SAT} {Scores}:
+  {Modeling} the {Influences} of {Family} {Income} on {Black} and {White}
+  {High} {School} {Students}' {SAT} {Performance}}.
 \newblock \emph{Teachers College Record} 115.
+
+\bibitem[{Dunlap and Dunlap(1989)}]{dunlap_self-monitoring_1989}
+Dunlap, L~K, and G~Dunlap. 1989.
+\newblock {\selectlanguage{english}A self-monitoring package for teaching
+  subtraction with regrouping to students with learning disabilities.}
+\newblock \emph{Journal of Applied Behavior Analysis} 22(3):309--314.
+\newblock \doi{10.1901/jaba.1989.22-309}.
+\newblock
+  \urlprefix\url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1286182/}.
 
 \bibitem[{Finau et~al.(2018)Finau, Treagust, Won, and
   Chandrasegaran}]{finau_effects_2018}
 Finau, Teukava, David~F. Treagust, Mihye Won, and A.~L. Chandrasegaran. 2018.
-\newblock {\selectlanguage{English}Effects of a {Mathematics} {Cognitive}
+\newblock {\selectlanguage{english}Effects of a {Mathematics} {Cognitive}
   {Acceleration} {Program} on {Student} {Achievement} and {Motivation}}.
 \newblock \emph{International Journal of Science and Mathematics Education}
   16(1):183--202.
@@ -218,15 +227,16 @@ Finau, Teukava, David~F. Treagust, Mihye Won, and A.~L. Chandrasegaran. 2018.
 
 \bibitem[{Flores(2007)}]{alfinio_flores_examining_2007}
 Flores, Alfinio. 2007.
-\newblock {\selectlanguage{English}Examining {Disparities} in {Mathematics}
+\newblock {\selectlanguage{english}Examining {Disparities} in {Mathematics}
   {Education}: {Achievement} {Gap} or {Opportunity} {Gap}?}
 \newblock \emph{The High School Journal} 91(1):29--42.
 \newblock \urlprefix\url{http://www.jstor.org/stable/40367921}.
 
 \bibitem[{Fong and Krause(2014)}]{fong_lost_2014}
 Fong, Carlton~J., and Jaimie~M. Krause. 2014.
-\newblock Lost {Confidence} and {Potential}: {A} {Mixed} {Methods} {Study} of
-  {Underachieving} {College} {Students}' {Sources} of {Self}-{Efficacy}.
+\newblock {\selectlanguage{english}Lost {Confidence} and {Potential}: {A}
+  {Mixed} {Methods} {Study} of {Underachieving} {College} {Students}' {Sources}
+  of {Self}-{Efficacy}}.
 \newblock \emph{Social Psychology of Education: An International Journal}
   17(2):249--268.
 \newblock
@@ -236,7 +246,7 @@ Fong, Carlton~J., and Jaimie~M. Krause. 2014.
   Jordt, and Wenderoth}]{freeman_active_2014}
 Freeman, Scott, Sarah~L. Eddy, Miles McDonough, Michelle~K. Smith, Nnadozie
   Okoroafor, Hannah Jordt, and Mary~Pat Wenderoth. 2014.
-\newblock {\selectlanguage{English}Active learning increases student
+\newblock {\selectlanguage{english}Active learning increases student
   performance in science, engineering, and mathematics}.
 \newblock \emph{Proceedings of the National Academy of Sciences}
   111(23):8410--8415.
@@ -245,40 +255,58 @@ Freeman, Scott, Sarah~L. Eddy, Miles McDonough, Michelle~K. Smith, Nnadozie
 
 \bibitem[{Freire(2014)}]{freire_pedagogy_2014}
 Freire, Paulo. 2014.
-\newblock {\selectlanguage{English}\emph{Pedagogy of the {Oppressed}: 30th
+\newblock {\selectlanguage{english}\emph{Pedagogy of the {Oppressed}: 30th
   {Anniversary} {Edition}}}.
 \newblock Bloomsbury Publishing USA.
 \newblock Google-Books-ID: oKQMBAAAQBAJ.
 
+\bibitem[{Green et~al.(2007)Green, Carney, Pallin, Ngo, Raymond, Iezzoni, and
+  Banaji}]{green_implicit_2007}
+Green, Alexander~R., Dana~R. Carney, Daniel~J. Pallin, Long~H. Ngo, Kristal~L.
+  Raymond, Lisa~I. Iezzoni, and Mahzarin~R. Banaji. 2007.
+\newblock {\selectlanguage{english}Implicit {Bias} among {Physicians} and its
+  {Prediction} of {Thrombolysis} {Decisions} for {Black} and {White}
+  {Patients}}.
+\newblock \emph{Journal of General Internal Medicine} 22(9):1231--1238.
+\newblock \doi{10.1007/s11606-007-0258-5}.
+\newblock \urlprefix\url{https://doi.org/10.1007/s11606-007-0258-5}.
+
 \bibitem[{Gutierrez(2012)}]{gutierrez_embracing_2012}
 Gutierrez, Rochelle. 2012.
-\newblock {\selectlanguage{English}Embracing {Nepantla}: {Rethinking}
+\newblock {\selectlanguage{english}Embracing {Nepantla}: {Rethinking}
   "{Knowledge}" and its {Use} in {Mathematics} {Teaching}}.
 \newblock \emph{Journal of Research in Mathematics Education} 1(1):29--56.
 \newblock \doi{10.4471/redimat.2012.02}.
 \newblock
   \urlprefix\url{http://hipatiapress.com/hpjournals/index.php/redimat/article/view/191}.
 
+\bibitem[{Gutierrez(2018)}]{gutierrez_why_2018}
+---{}---{}---. 2018.
+\newblock {\selectlanguage{english}Why we need to rehumanize mathematics}.
+\newblock \emph{ResearchGate}
+  \urlprefix\url{https://www.researchgate.net/publication/325828845_Why_we_need_to_rehumanize_mathematics}.
+
 \bibitem[{Gutiérrez(2017)}]{gutierrez_living_2017}
 Gutiérrez, Rochelle. 2017.
-\newblock {\selectlanguage{English}{LIVING} {MATHEMATX}: {TOWARDS} {A} {VISION}
+\newblock {\selectlanguage{english}{LIVING} {MATHEMATX}: {TOWARDS} {A} {VISION}
   {FOR} {THE} {FUTUREi}} 25.
 
 \bibitem[{Gutstein(2007)}]{gutstein_and_2007}
 Gutstein, Eric. 2007.
-\newblock {\selectlanguage{English}"{And} {That}'s {Just} {How} {It} {Starts}":
+\newblock {\selectlanguage{english}"{And} {That}'s {Just} {How} {It} {Starts}":
   {Teaching} {Mathematics} and {Developing} {Student} {Agency}}.
 \newblock \emph{Teachers College Record} 109(2):420--448.
 
 \bibitem[{Heron(2011)}]{heron_how_2011}
 Heron, Michele~Lynn. 2011.
-\newblock \emph{How {Does} {Self}-{Regulation} {Impact} {Student}'s {Use} of
-  {Mathematical} {Strategies} in a {Remedial} {Mathematics} {Course}}.
+\newblock {\selectlanguage{english}\emph{How {Does} {Self}-{Regulation}
+  {Impact} {Student}'s {Use} of {Mathematical} {Strategies} in a {Remedial}
+  {Mathematics} {Course}}}.
 \newblock Ph.D. thesis, ProQuest LLC.
 
 \bibitem[{Holm(2016)}]{dewar_transforming_2016}
 Holm, Tara. 2016.
-\newblock {\selectlanguage{English}Transforming {Post}-{Secondary} {Education}
+\newblock {\selectlanguage{english}Transforming {Post}-{Secondary} {Education}
   in {Mathematics}}.
 \newblock In \emph{Mathematics {Education}}, eds. Jacqueline Dewar, Pao-sheng
   Hsu, and Harriet Pollatsek, vol.~7, 363--381. Cham: Springer International
@@ -289,16 +317,25 @@ Holm, Tara. 2016.
 
 \bibitem[{Hosein and Harle(2018)}]{hosein_relationship_2018}
 Hosein, Anesa, and Jamie Harle. 2018.
-\newblock The relationship between students’ prior mathematical attainment,
-  knowledge and confidence on their self-assessment accuracy.
+\newblock {\selectlanguage{english}The relationship between students’ prior
+  mathematical attainment, knowledge and confidence on their self-assessment
+  accuracy}.
 \newblock \emph{Studies in Educational Evaluation} 56:32--41.
 \newblock \doi{10.1016/j.stueduc.2017.10.008}.
 \newblock
   \urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0191491X16301651}.
 
+\bibitem[{Inbar(1996)}]{inbar_free_1996}
+Inbar, Dan~E. 1996.
+\newblock {\selectlanguage{english}The free educational prison: metaphors and
+  images}.
+\newblock \emph{Educational Research} 38(1):77--92.
+\newblock \doi{10.1080/0013188960380106}.
+\newblock \urlprefix\url{https://doi.org/10.1080/0013188960380106}.
+
 \bibitem[{Joseph et~al.(2017)Joseph, Hailu, and Boston}]{joseph_black_2017}
 Joseph, Nicole~M., Meseret Hailu, and Denise Boston. 2017.
-\newblock {\selectlanguage{English}Black {Women}’s and {Girls}’
+\newblock {\selectlanguage{english}Black {Women}’s and {Girls}’
   {Persistence} in the {P}–20 {Mathematics} {Pipeline}: {Two} {Decades} of
   {Children}, {Youth}, and {Adult} {Education} {Research}}.
 \newblock \emph{Review of Research in Education} 41(1):203--227.
@@ -308,8 +345,8 @@ Joseph, Nicole~M., Meseret Hailu, and Denise Boston. 2017.
 
 \bibitem[{Kesici and Erdogan(2009)}]{kesici_predicting_2009}
 Kesici, Sahin, and Ahmet Erdogan. 2009.
-\newblock Predicting college students' mathematics anxiety by motivational
-  beliefs and self-regulated learning strategies.
+\newblock {\selectlanguage{english}Predicting college students' mathematics
+  anxiety by motivational beliefs and self-regulated learning strategies}.
 \newblock \emph{College Student Journal} 43(2):631--642.
 \newblock
   \urlprefix\url{http://search.ebscohost.com/login.aspx?direct=true&db=eft&AN=508070480&site=ehost-live&scope=site}.
@@ -317,7 +354,7 @@ Kesici, Sahin, and Ahmet Erdogan. 2009.
 \bibitem[{Labuhn et~al.(2010)Labuhn, Zimmerman, and
   Hasselhorn}]{labuhn_enhancing_2010}
 Labuhn, Andju~Sara, Barry~J. Zimmerman, and Marcus Hasselhorn. 2010.
-\newblock {\selectlanguage{English}Enhancing students’ self-regulation and
+\newblock {\selectlanguage{english}Enhancing students’ self-regulation and
   mathematics performance: the influence of feedback and self-evaluative
   standards}.
 \newblock \emph{Metacognition and Learning} 5(2):173--194.
@@ -327,30 +364,43 @@ Labuhn, Andju~Sara, Barry~J. Zimmerman, and Marcus Hasselhorn. 2010.
 
 \bibitem[{Lage et~al.(2000)Lage, Platt, and Treglia}]{lage_inverting_2000}
 Lage, Maureen~J., Glenn~J. Platt, and Michael Treglia. 2000.
-\newblock Inverting the {Classroom}: {A} {Gateway} to {Creating} an {Inclusive}
-  {Learning} {Environment}.
+\newblock {\selectlanguage{english}Inverting the {Classroom}: {A} {Gateway} to
+  {Creating} an {Inclusive} {Learning} {Environment}}.
 \newblock \emph{The Journal of Economic Education} 31(1):30--43.
 \newblock \doi{10.2307/1183338}.
 \newblock \urlprefix\url{http://www.jstor.org/stable/1183338}.
 
 \bibitem[{Lai and Hwang(2016)}]{lai_self-regulated_2016}
 Lai, Chiu-Lin, and Gwo-Jen Hwang. 2016.
-\newblock A self-regulated flipped classroom approach to improving students’
-  learning performance in a mathematics course.
+\newblock {\selectlanguage{english}A self-regulated flipped classroom approach
+  to improving students’ learning performance in a mathematics course}.
 \newblock \emph{Computers \& Education} 100:126--140.
 \newblock \doi{10.1016/j.compedu.2016.05.006}.
 \newblock
   \urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0360131516301166}.
 
+\bibitem[{Laursen et~al.(2014)Laursen, Hassi, Kogan, and
+  Weston}]{laursen_benefits_2014}
+Laursen, Sandra~L., Marja-Liisa Hassi, Marina Kogan, and Timothy~J. Weston.
+  2014.
+\newblock {\selectlanguage{english}Benefits for {Women} and {Men} of
+  {Inquiry}-{Based} {Learning} in {College} {Mathematics}: {A}
+  {Multi}-{Institution} {Study}}.
+\newblock \emph{Journal for Research in Mathematics Education} 45(4):406--418.
+\newblock \doi{10.5951/jresematheduc.45.4.0406}.
+\newblock
+  \urlprefix\url{https://www.jstor.org/stable/10.5951/jresematheduc.45.4.0406}.
+
 \bibitem[{Lenz(2015)}]{lenz_active_2015}
 Lenz, Laurie. 2015.
-\newblock Active {Learning} in a {Math} for {Liberal} {Arts} {Classroom}.
+\newblock {\selectlanguage{english}Active {Learning} in a {Math} for {Liberal}
+  {Arts} {Classroom}}.
 \newblock \emph{PRIMUS} 25(3):279--296.
 
 \bibitem[{Martin et~al.(2017)Martin, Goldwasser, and
   Harris}]{martin_developmental_2017}
 Martin, Kimberly, Molly Goldwasser, and Eugenia Harris. 2017.
-\newblock {\selectlanguage{English}Developmental {Education}’s {Impact} on
+\newblock {\selectlanguage{english}Developmental {Education}’s {Impact} on
   {Students}’ {Academic} {Self}-{Concept} and {Self}-{Efficacy}}.
 \newblock \emph{Journal of College Student Retention: Research, Theory \&
   Practice} 18(4):401--414.
@@ -359,11 +409,11 @@ Martin, Kimberly, Molly Goldwasser, and Eugenia Harris. 2017.
 
 \bibitem[{McQuarrie(2016)}]{mcquarrie_changes_2016}
 McQuarrie, Dr~Fiona. 2016.
-\newblock {\selectlanguage{English}Changes in {K}-12 {Education}} 20.
+\newblock {\selectlanguage{english}Changes in {K}-12 {Education}} 20.
 
 \bibitem[{Miller and Schraeder(2015)}]{miller_research_2015}
 Miller, David, and Matthew Schraeder. 2015.
-\newblock {\selectlanguage{English}Research on {Group} {Learning} and
+\newblock {\selectlanguage{english}Research on {Group} {Learning} and
   {Cognitive} {Science}: {A} {Study} of {Motivation}, {Knowledge}, and
   {Self}-{Regulation} in a {Large} {Lecture} {College} {Algebra} {Class}}.
 \newblock \emph{Mathematics Educator} 24(2):27--55.
@@ -371,17 +421,23 @@ Miller, David, and Matthew Schraeder. 2015.
 
 \bibitem[{Montague(2007)}]{montague_self-regulation_2007}
 Montague, Marjorie. 2007.
-\newblock {\selectlanguage{English}Self-{Regulation} and {Mathematics}
+\newblock {\selectlanguage{english}Self-{Regulation} and {Mathematics}
   {Instruction}}.
 \newblock \emph{Learning Disabilities Research \& Practice} 22(1):75--83.
 \newblock \doi{10.1111/j.1540-5826.2007.00232.x}.
 \newblock
   \urlprefix\url{https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-5826.2007.00232.x}.
 
+\bibitem[{Morse(2008)}]{morse_about_2008}
+Morse, Robert. 2008.
+\newblock {\selectlanguage{english}About {That} {NACAC} {Report} on the {SAT}}.
+\newblock
+  \urlprefix\url{https://www.usnews.com/education/blogs/college-rankings-blog/2008/09/22/about-that-nacac-report-on-the-sat}.
+
 \bibitem[{Moses and Cobb(2001)}]{moses_radical_2001}
 Moses, Robert~P., and Charles~E. Cobb. 2001.
-\newblock \emph{Radical {Equations}: {Organizing} {Math} {Literacy} in
-  {America}'s {Schools}}.
+\newblock {\selectlanguage{english}\emph{Radical {Equations}: {Organizing}
+  {Math} {Literacy} in {America}'s {Schools}}}.
 \newblock Boston, UNITED STATES: Beacon Press.
 \newblock
   \urlprefix\url{http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=3117955}.
@@ -390,7 +446,7 @@ Moses, Robert~P., and Charles~E. Cobb. 2001.
   Handelsman}]{moss-racusin_science_2012}
 Moss-Racusin, Corinne~A., John~F. Dovidio, Victoria~L. Brescoll, Mark~J.
   Graham, and Jo~Handelsman. 2012.
-\newblock {\selectlanguage{English}Science faculty’s subtle gender biases
+\newblock {\selectlanguage{english}Science faculty’s subtle gender biases
   favor male students}.
 \newblock \emph{Proceedings of the National Academy of Sciences}
   109(41):16,474--16,479.
@@ -401,8 +457,8 @@ Moss-Racusin, Corinne~A., John~F. Dovidio, Victoria~L. Brescoll, Mark~J.
   Souri}]{motlagh_relationship_2011}
 Motlagh, Shahrzad~Elahi, Kourosh Amrai, Mohammad~Javad Yazdani, Haitham~altaib
   Abderahim, and Hossein Souri. 2011.
-\newblock The relationship between self-efficacy and academic achievement in
-  high school students.
+\newblock {\selectlanguage{english}The relationship between self-efficacy and
+  academic achievement in high school students}.
 \newblock \emph{Procedia - Social and Behavioral Sciences} 15:765--768.
 \newblock \doi{10.1016/j.sbspro.2011.03.180}.
 \newblock
@@ -410,8 +466,9 @@ Motlagh, Shahrzad~Elahi, Kourosh Amrai, Mohammad~Javad Yazdani, Haitham~altaib
 
 \bibitem[{Muis(2008)}]{muis_epistemic_2008}
 Muis, Krista~R. 2008.
-\newblock Epistemic profiles and self-regulated learning: {Examining} relations
-  in the context of mathematics problem solving.
+\newblock {\selectlanguage{english}Epistemic profiles and self-regulated
+  learning: {Examining} relations in the context of mathematics problem
+  solving}.
 \newblock \emph{Contemporary Educational Psychology} 33(2):177--208.
 \newblock \doi{10.1016/j.cedpsych.2006.10.012}.
 \newblock
@@ -419,34 +476,58 @@ Muis, Krista~R. 2008.
 
 \bibitem[{Musu-Gillette()}]{musu-gillette_status_nodate}
 Musu-Gillette, L. ????
-\newblock {\selectlanguage{English}Status and {Trends} in the {Education} of
+\newblock {\selectlanguage{english}Status and {Trends} in the {Education} of
   {Racial} and {Ethnic} {Groups} 2016} 188.
 
 \bibitem[{Poon et~al.(2016)Poon, Squire, Kodama, Byrd, Chan, Manzano, Furr, and
   Bishundat}]{poon_critical_2016}
 Poon, OiYan, Dian Squire, Corinne Kodama, Ajani Byrd, Jason Chan, Lester
   Manzano, Sara Furr, and Devita Bishundat. 2016.
-\newblock {\selectlanguage{English}A {Critical} {Review} of the {Model}
+\newblock {\selectlanguage{english}A {Critical} {Review} of the {Model}
   {Minority} {Myth} in {Selected} {Literature} on {Asian} {Americans} and
   {Pacific} {Islanders} in {Higher} {Education}}.
 \newblock \emph{Review of Educational Research} 86(2):469--502.
 \newblock \doi{10.3102/0034654315612205}.
 \newblock \urlprefix\url{https://doi.org/10.3102/0034654315612205}.
 
+\bibitem[{Ross(2007)}]{ross_r._2007}
+Ross, Peter. 2007.
+\newblock {\selectlanguage{english}R. {L}. {Moore}: mathematician \& teacher}.
+\newblock \emph{The Mathematical Intelligencer} 29(4):75--79.
+\newblock \doi{10.1007/BF02986178}.
+\newblock \urlprefix\url{http://link.springer.com/10.1007/BF02986178}.
+
+\bibitem[{Ross et~al.(1999)Ross, Niebling, and Heckert}]{ross_sources_1999}
+Ross, Shannon~E., Bradley~C. Niebling, and Teresa~M. Heckert. 1999.
+\newblock {\selectlanguage{english}Sources of {Stress} among {College}
+  {Students}}.
+\newblock \emph{College Student Journal} 33(2):312.
+\newblock
+  \urlprefix\url{https://www.questia.com/library/journal/1G1-62839434/sources-of-stress-among-college-students}.
+
 \bibitem[{Simon et~al.(2015)Simon, Aulls, Dedic, Hubbard, and
   Hall}]{simon_exploring_2015}
 Simon, Rebecca~A., Mark~W. Aulls, Helena Dedic, Kyle Hubbard, and Nathan~C.
   Hall. 2015.
-\newblock Exploring {Student} {Persistence} in {STEM} {Programs}: {A}
-  {Motivational} {Model}.
+\newblock {\selectlanguage{english}Exploring {Student} {Persistence} in {STEM}
+  {Programs}: {A} {Motivational} {Model}}.
 \newblock \emph{Canadian Journal of Education} 38(1).
 \newblock
   \urlprefix\url{http://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ1057949&site=ehost-live&scope=site}.
 
+\bibitem[{Slater(2000)}]{slater_persistent_2000}
+Slater, Robert. 2000.
+\newblock {\selectlanguage{english}The {Persistent} {Racial} {Scoring} {Gap} on
+  the {SAT}}.
+\newblock \emph{The Journal of Blacks in Higher Education} (29):85--88.
+\newblock \doi{10.2307/2678849}.
+\newblock \urlprefix\url{https://www.jstor.org/stable/2678849}.
+
 \bibitem[{Smyth and Nosek(2015)}]{smyth_genderscience_2015}
 Smyth, Frederick~L., and Brian~A. Nosek. 2015.
-\newblock On the gender–science stereotypes held by scientists: explicit
-  accord with gender-ratios, implicit accord with scientific identity.
+\newblock {\selectlanguage{english}On the gender–science stereotypes held by
+  scientists: explicit accord with gender-ratios, implicit accord with
+  scientific identity}.
 \newblock \emph{Frontiers in Psychology} 6.
 \newblock \doi{10.3389/fpsyg.2015.00415}.
 \newblock
@@ -455,35 +536,53 @@ Smyth, Frederick~L., and Brian~A. Nosek. 2015.
 \bibitem[{Solorzano et~al.(2000)Solorzano, Ceja, and
   Yosso}]{solorzano_critical_2000}
 Solorzano, Daniel, Miguel Ceja, and Tara Yosso. 2000.
-\newblock Critical {Race} {Theory}, {Racial} {Microaggressions}, and {Campus}
-  {Racial} {Climate}: {The} {Experiences} of {African} {American} {College}
-  {Students}.
+\newblock {\selectlanguage{english}Critical {Race} {Theory}, {Racial}
+  {Microaggressions}, and {Campus} {Racial} {Climate}: {The} {Experiences} of
+  {African} {American} {College} {Students}}.
 \newblock \emph{The Journal of Negro Education} 69(1/2):60--73.
 \newblock \urlprefix\url{https://www.jstor.org/stable/2696265}.
 
 \bibitem[{Spencer et~al.(1999)Spencer, Steele, and
   Quinn}]{spencer_stereotype_1999}
 Spencer, Steven~J., Claude~M. Steele, and Diane~M. Quinn. 1999.
-\newblock Stereotype {Threat} and {Women}'s {Math} {Performance}.
+\newblock {\selectlanguage{english}Stereotype {Threat} and {Women}'s {Math}
+  {Performance}}.
 \newblock \emph{Journal of Experimental Social Psychology} 35(1):4--28.
 \newblock \doi{10.1006/jesp.1998.1373}.
 \newblock
   \urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0022103198913737}.
 
+\bibitem[{Steele and Aronson(1995)}]{steele_stereotype_1995}
+Steele, C.~M., and J.~Aronson. 1995.
+\newblock {\selectlanguage{english}Stereotype threat and the intellectual test
+  performance of {African} {Americans}}.
+\newblock \emph{Journal of Personality and Social Psychology} 69(5):797--811.
+
 \bibitem[{Stevens et~al.(2004)Stevens, Olivarez, Lan, and
   Tallent-Runnels}]{stevens_role_2004}
 Stevens, Tara, Arturo Olivarez, William~Y. Lan, and Mary~K. Tallent-Runnels.
   2004.
-\newblock {\selectlanguage{English}Role of {Mathematics} {Self}-{Efficacy} and
+\newblock {\selectlanguage{english}Role of {Mathematics} {Self}-{Efficacy} and
   {Motivation} in {Mathematics} {Performance} {Across} {Ethnicity}}.
 \newblock \emph{The Journal of Educational Research; Bloomington}
   97(4):208--221.
 \newblock
   \urlprefix\url{https://search.proquest.com/docview/204194050/abstract/9DEC90FE0761461EPQ/1}.
 
+\bibitem[{Sue et~al.(2007)Sue, Capodilupo, Torino, Bucceri, Holder, Nadal, and
+  Esquilin}]{sue_racial_2007}
+Sue, Derald~Wing, Christina~M. Capodilupo, Gina~C. Torino, Jennifer~M. Bucceri,
+  Aisha M.~B. Holder, Kevin~L. Nadal, and Marta Esquilin. 2007.
+\newblock {\selectlanguage{english}Racial microaggressions in everyday life:
+  {Implications} for clinical practice.}
+\newblock \emph{American Psychologist} 62(4):271--286.
+\newblock \doi{10.1037/0003-066X.62.4.271}.
+\newblock
+  \urlprefix\url{http://doi.apa.org/getdoi.cfm?doi=10.1037/0003-066X.62.4.271}.
+
 \bibitem[{Thevenin(2007)}]{thevenin_mentors_2007}
 Thevenin, Melissa~K. 2007.
-\newblock {\selectlanguage{English}\emph{Mentors, role models, and differences
+\newblock {\selectlanguage{english}\emph{Mentors, role models, and differences
   in self-efficacy and motivation among construction management students}}.
 \newblock Thesis, Colorado State University. Libraries.
 \newblock
@@ -491,28 +590,37 @@ Thevenin, Melissa~K. 2007.
 
 \bibitem[{Travers and Sheckley(2000)}]{travers_changes_2000}
 Travers, Nan~L., and Barry~G. Sheckley. 2000.
-\newblock {\selectlanguage{English}\emph{Changes in {Students}'
+\newblock {\selectlanguage{english}\emph{Changes in {Students}'
   {Self}-{Regulation} {Based} on {Different} {Teaching} {Methodologies}}}.
 \newblock \urlprefix\url{https://eric.ed.gov/?id=ED445631}.
 
+\bibitem[{Ventista(2018)}]{ventista_self-assessment_2018}
+Ventista, Ourania~Maria. 2018.
+\newblock {\selectlanguage{english}Self-assessment in {Massive} {Open} {Online}
+  {Courses}}.
+\newblock \emph{E-Learning and Digital Media} 15(4):165--175.
+\newblock \doi{10.1177/2042753018784950}.
+\newblock \urlprefix\url{https://doi.org/10.1177/2042753018784950}.
+
 \bibitem[{Wang et~al.(2017)Wang, Yin, Lu, and Zhang}]{wang_environment_2017}
 Wang, Wenlan, Hongbiao Yin, Genshu Lu, and Qiaoping Zhang. 2017.
-\newblock Environment {Matters}: {Exploring} the {Relationships} between the
-  {Classroom} {Environment} and {College} {Students}' {Affect} in {Mathematics}
-  {Learning} in {China}.
+\newblock {\selectlanguage{english}Environment {Matters}: {Exploring} the
+  {Relationships} between the {Classroom} {Environment} and {College}
+  {Students}' {Affect} in {Mathematics} {Learning} in {China}}.
 \newblock \emph{Asia Pacific Education Review} 18(3):321--333.
 
 \bibitem[{Yong et~al.(2015)Yong, Levy, and Lape}]{yong_why_2015}
 Yong, Darryl, Rachel Levy, and Nancy Lape. 2015.
-\newblock Why {No} {Difference}? {A} {Controlled} {Flipped} {Classroom} {Study}
-  for an {Introductory} {Differential} {Equations} {Course}.
+\newblock {\selectlanguage{english}Why {No} {Difference}? {A} {Controlled}
+  {Flipped} {Classroom} {Study} for an {Introductory} {Differential}
+  {Equations} {Course}}.
 \newblock \emph{PRIMUS} 25(9-10):907--921.
 \newblock \doi{10.1080/10511970.2015.1031307}.
 \newblock \urlprefix\url{https://doi.org/10.1080/10511970.2015.1031307}.
 
 \bibitem[{Yoshinobu and Jones(2013)}]{yoshinobu_overview_2013}
 Yoshinobu, Stan, and Matthew Jones. 2013.
-\newblock {\selectlanguage{English}An {Overview} of {Inquiry}-{Based}
+\newblock {\selectlanguage{english}An {Overview} of {Inquiry}-{Based}
   {Learning} in {Mathematics}}.
 \newblock In \emph{Wiley {Encyclopedia} of {Operations} {Research} and
   {Management} {Science}}, 1--11. American Cancer Society.
@@ -524,15 +632,15 @@ Yoshinobu, Stan, and Matthew Jones. 2013.
   Lee}]{zappe_flipping_2009}
 Zappe, Sarah, Robert Leicht, John Messner, Thomas Litzginer, and Hyeon~Woo Lee.
   2009.
-\newblock "{Flipping}" the classroom to explore active learning in a large
-  undergraduate course.
+\newblock {\selectlanguage{english}"{Flipping}" the classroom to explore active
+  learning in a large undergraduate course}.
 \newblock \emph{Proc Am Soc Eng Educ Ann Conference Exhibition} .
 
 \bibitem[{Zollinger(2017)}]{zollinger_impact_2017}
 Zollinger, Steven. 2017.
-\newblock The {Impact} of an {Online}, {Mastery}, and {Project}-{Based}
-  {Developmental} {Math} {Curriculum} on {Student} {Achievement} and
-  {Attitude}.
+\newblock {\selectlanguage{english}The {Impact} of an {Online}, {Mastery}, and
+  {Project}-{Based} {Developmental} {Math} {Curriculum} on {Student}
+  {Achievement} and {Attitude}}.
 \newblock \emph{Walden Dissertations and Doctoral Studies}
   \urlprefix\url{http://scholarworks.waldenu.edu/dissertations/4120}.
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840) (preloaded format=pdflatex 2018.11.18)  29 NOV 2018 13:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840) (preloaded format=pdflatex 2018.11.18)  29 NOV 2018 17:27
 entering extended mode
 **./thesis_jennylee.tex
 (thesis_jennylee.tex
@@ -1421,119 +1421,95 @@ Overfull \hbox (8.56577pt too wide) in paragraph at lines 23--24
 tion on their demographics.
  []
 
-[27] [28] [29]
+[27] [28] [29] [30]
 Overfull \hbox (2.61943pt too wide) in paragraph at lines 98--99
 []\T1/zpltlf/m/n/10.95 (-20) Thus, it is very likely that there are definitely 
 variables in the demographics
  []
 
-[30] [31] [32]) [33] [34
+[31] [32]) [33] [34
 
 
 ] (thesis_jennylee.bbl
 LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/n' will be
-(Font)              scaled to size 10.73094pt on input line 16.
+(Font)              scaled to size 10.73094pt on input line 17.
 
-Underfull \hbox (badness 1019) in paragraph at lines 13--17
-[]\T1/zpltlf/m/n/10.95 (+20) ????a.  The Black-White Test Score Gap - Google Bo
-oks.  URL
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--17
-[]$\T1/SourceSansPro-LF/m/n/10.95 (+20) https : / / books . google . com / book
-s ? hl = en & lr = &id = Ywb7r1oOxJYC & oi = fnd & pg =
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--17
-\T1/SourceSansPro-LF/m/n/10.95 (+20) PA55 & dq = Jencks ,[] +C . +(1998 ) . + R
-acial + bias + in + testing . +The + Black-[]White +
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--17
-\T1/SourceSansPro-LF/m/n/10.95 (+20) test + score + gap ,[] &ots = xqv _ XUXalx
- & sig = wrDZx0ybfM-[]pojABFNvCmnvloZE # v =
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--30
-\T1/SourceSansPro-LF/m/n/10.95 (+20) books ? id = yyScDQAAQBAJ & pg = PA367 & l
-pg = PA367 & dq = tpse + math & source =
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--30
-\T1/SourceSansPro-LF/m/n/10.95 (+17) bl & ots = Yry0b1-[]Mmu & sig = BlfDpvHizU
-RwcEtGDvAaPEoWtYc & hl = en & sa = X & ved =
- []
-
-
-Underfull \hbox (badness 7851) in paragraph at lines 32--37
-[]\T1/zpltlf/m/n/10.95 (+20) ????d.  [](PDF) Why we need to rehumanize mathemat
-ics[].
- []
-
-[35
-
-]
-Underfull \hbox (badness 2142) in paragraph at lines 75--83
+Underfull \hbox (badness 2142) in paragraph at lines 46--54
 []\T1/zpltlf/m/n/10.95 (+20) Black Girls and School Discipline: The Complexitie
 s of Being
  []
 
-[36]
-Underfull \hbox (badness 5091) in paragraph at lines 166--174
+[35
+
+] [36]
+Underfull \hbox (badness 5091) in paragraph at lines 147--155
 \T1/zpltlf/m/it/10.95 (+20) Education \T1/zpltlf/m/n/10.95 (+20) 14(2):263--280
 .  doi:$10 . 1007 / s10763-[]015-[]9681-[]y$.  URL
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--174
+Underfull \hbox (badness 10000) in paragraph at lines 147--155
 []$\T1/SourceSansPro-LF/m/n/10.95 (+20) http : / / search . ebscohost . com / l
 ogin . aspx ? direct = true & db = e & AN = 113704374 &
  []
 
+
+Underfull \hbox (badness 3780) in paragraph at lines 185--192
+[]\T1/zpltlf/m/n/10.95 (+20) Crawley, Kayla, and Paul Hirschfield. 2018.  []Exa
+mining the
+ []
+
 [37] [38]
-Underfull \hbox (badness 3108) in paragraph at lines 310--316
-[]\T1/zpltlf/m/n/10.95 (+20) Kesici, Sahin, and Ahmet Erdogan. 2009.  Predictin
-g college
+Underfull \hbox (badness 3108) in paragraph at lines 347--353
+[]\T1/zpltlf/m/n/10.95 (+20) Kesici, Sahin, and Ahmet Erdogan. 2009.  []Predict
+ing college
  []
 
 
-Underfull \hbox (badness 2809) in paragraph at lines 310--316
+Underfull \hbox (badness 2809) in paragraph at lines 347--353
 \T1/zpltlf/m/n/10.95 (+20) students' mathematics anxiety by motivational belief
 s and self-
  []
 
 
-Underfull \hbox (badness 2573) in paragraph at lines 310--316
-\T1/zpltlf/m/n/10.95 (+20) regulated learning strategies.  \T1/zpltlf/m/it/10.9
-5 (+20) College Student Journal \T1/zpltlf/m/n/10.95 (+20) 43(2):631--
+Underfull \hbox (badness 2573) in paragraph at lines 347--353
+\T1/zpltlf/m/n/10.95 (+20) regulated learning strategies[].  \T1/zpltlf/m/it/10
+.95 (+20) College Student Journal \T1/zpltlf/m/n/10.95 (+20) 43(2):631--
  []
 
 [39]
-Underfull \hbox (badness 1796) in paragraph at lines 352--359
+Underfull \hbox (badness 1796) in paragraph at lines 402--409
 []\T1/zpltlf/m/n/10.95 (+20) Martin, Kimberly, Molly Goldwasser, and Eugenia Ha
 rris. 2017.
  []
 
+[40]
+Underfull \hbox (badness 1360) in paragraph at lines 432--436
+[]\T1/zpltlf/m/n/10.95 (+20) Morse, Robert. 2008.  []About That NACAC Report on
+ the SAT[].
+ []
 
-Underfull \hbox (badness 1117) in paragraph at lines 402--410
+
+Underfull \hbox (badness 1117) in paragraph at lines 458--466
 \T1/zpltlf/m/it/10.95 (+20) Procedia - Social and Behavioral Sciences \T1/zpltl
 f/m/n/10.95 (+20) 15:765--768.  doi:$10 . 1016 / j .
  []
 
 
-Underfull \hbox (badness 3088) in paragraph at lines 412--419
+Underfull \hbox (badness 3088) in paragraph at lines 468--476
 \T1/zpltlf/m/it/10.95 (+20) Contemporary Educational Psychology \T1/zpltlf/m/n/
 10.95 (+20) 33(2):177--208.  doi:$10 . 1016 / j .
  []
 
-[40] [41])
+[41]
+Underfull \hbox (badness 1281) in paragraph at lines 501--507
+[]\T1/zpltlf/m/n/10.95 (+20) Ross, Shannon E., Bradley C. Niebling, and Teresa 
+M. Heckert.
+ []
+
+[42] [43])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 404.
- [42]
+ [44]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 404.
  (thesis_jennylee.aux (intro.aux) (fair.aux) (srdef.aux)
 (casestudy.aux))
@@ -1543,13 +1519,13 @@ Package rerunfilecheck Info: File `thesis_jennylee.out' has not changed.
 (rerunfilecheck)             Checksum: 5DB26033D8902D63CD938EC63A50FECB;1322.
  ) 
 Here is how much of TeX's memory you used:
- 14986 strings out of 494889
- 241991 string characters out of 3176776
- 357992 words of memory out of 3000000
- 17888 multiletter control sequences out of 15000+200000
- 127166 words of font info for 195 fonts, out of 3000000 for 9000
+ 15039 strings out of 494889
+ 243121 string characters out of 3176776
+ 359598 words of memory out of 3000000
+ 17918 multiletter control sequences out of 15000+200000
+ 127854 words of font info for 201 fonts, out of 3000000 for 9000
  2 hyphenation exceptions out of 8191
- 47i,12n,79p,1273b,819s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 47i,12n,79p,1273b,939s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/Users/jennylee/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/
 dvips/base/8r.enc}{/Users/jennylee/Library/Application Support/MiKTeX/texmfs/in
 stall/fonts/enc/dvips/newpx/tgpdiff.enc}{/Users/jennylee/Library/Application Su
@@ -1571,9 +1547,9 @@ ll/fonts/type1/public/newpx/zplr.pfb></Users/jennylee/Library/Application Suppo
 rt/MiKTeX/texmfs/install/fonts/type1/public/newpx/zplri.pfb></Users/jennylee/Li
 brary/Application Support/MiKTeX/texmfs/install/fonts/type1/public/newpx/zplx-r
 egular.pfb>
-Output written on thesis_jennylee.pdf (50 pages, 425707 bytes).
+Output written on thesis_jennylee.pdf (52 pages, 431247 bytes).
 PDF statistics:
- 603 PDF objects out of 1000 (max. 8388607)
- 163 named destinations out of 1000 (max. 500000)
+ 630 PDF objects out of 1000 (max. 8388607)
+ 175 named destinations out of 1000 (max. 500000)
  29870 words of extra memory for PDF output out of 35830 (max. 10000000)
 
