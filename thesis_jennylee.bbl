@@ -1,4 +1,4 @@
-\begin{thebibliography}{74}
+\begin{thebibliography}{80}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -115,6 +115,13 @@ Buchmann, Claudia, Dennis~J. Condron, and Vincent~J. Roscigno. 2010.
 \newblock \doi{10.1353/sof.2010.0105}.
 \newblock \urlprefix\url{https://academic.oup.com/sf/article/89/2/435/2235270}.
 
+\bibitem[{Bureau(2013)}]{bureau_poverty_2013}
+Bureau, US~Census. 2013.
+\newblock {\selectlanguage{english}Poverty {Rates} for {Selected} {Detailed}
+  {Race} \& {Hispanic} {Groups}: 2007-2011}.
+\newblock
+  \urlprefix\url{https://www.census.gov/library/publications/2013/acs/acsbr11-17.html}.
+
 \bibitem[{Burris and Schroeder(1972)}]{burris_developmental_1972}
 Burris, Joanna~S., and Lee Schroeder. 1972.
 \newblock {\selectlanguage{english}Developmental {Mathematics}:
@@ -170,6 +177,12 @@ Cohen, David~W. 1982.
 \newblock \emph{The American Mathematical Monthly} 89(7):473--490.
 \newblock \doi{10.2307/2321385}.
 \newblock \urlprefix\url{https://www.jstor.org/stable/2321385}.
+
+\bibitem[{College(2017)}]{hmc}
+College, Harvey~Mudd. 2017.
+\newblock Harvey mudd class of 2021.
+\newblock
+  \urlprefix\url{https://www.hmc.edu/about-hmc/2017/07/25/harvey-mudd-college-welcomes-class-2021/}.
 
 \bibitem[{Corte et~al.(2000)Corte, Verschaffel, and Eynde}]{corte_chapter_2000}
 Corte, Erik~de, Lieven Verschaffel, and Peter~Op't Eynde. 2000.
@@ -271,8 +284,14 @@ Green, Alexander~R., Dana~R. Carney, Daniel~J. Pallin, Long~H. Ngo, Kristal~L.
 \newblock \doi{10.1007/s11606-007-0258-5}.
 \newblock \urlprefix\url{https://doi.org/10.1007/s11606-007-0258-5}.
 
+\bibitem[{Gutierrez(2009)}]{gutierrez_2009}
+Gutierrez, Rochelle. 2009.
+\newblock Framing equity: Helping students "play the game" and "change the
+  game".
+\newblock \emph{Teaching for Excellence and Equity in Mathematics} 1(1):4--7.
+
 \bibitem[{Gutierrez(2012)}]{gutierrez_embracing_2012}
-Gutierrez, Rochelle. 2012.
+---{}---{}---. 2012.
 \newblock {\selectlanguage{english}Embracing {Nepantla}: {Rethinking}
   "{Knowledge}" and its {Use} in {Mathematics} {Teaching}}.
 \newblock \emph{Journal of Research in Mathematics Education} 1(1):29--56.
@@ -289,7 +308,8 @@ Gutierrez, Rochelle. 2012.
 \bibitem[{Gutiérrez(2017)}]{gutierrez_living_2017}
 Gutiérrez, Rochelle. 2017.
 \newblock {\selectlanguage{english}{LIVING} {MATHEMATX}: {TOWARDS} {A} {VISION}
-  {FOR} {THE} {FUTUREi}} 25.
+  {FOR} {THE} {FUTUREi}}.
+\newblock \emph{Philosophy of Mathematics Education Journal} 25.
 
 \bibitem[{Gutstein(2007)}]{gutstein_and_2007}
 Gutstein, Eric. 2007.
@@ -343,6 +363,14 @@ Joseph, Nicole~M., Meseret Hailu, and Denise Boston. 2017.
 \newblock
   \urlprefix\url{http://journals.sagepub.com/doi/10.3102/0091732X16689045}.
 
+\bibitem[{Katz and Thoren(2017)}]{katz_introduction_2017}
+Katz, Brian~P., and Elizabeth Thoren. 2017.
+\newblock Introduction to the {Special} {Issue} on {Teaching} {Inquiry} ({Part}
+  {I}): {Illuminating} {Inquiry}.
+\newblock \emph{PRIMUS} 27(1):1--7.
+\newblock \doi{10.1080/10511970.2016.1252451}.
+\newblock \urlprefix\url{https://doi.org/10.1080/10511970.2016.1252451}.
+
 \bibitem[{Kesici and Erdogan(2009)}]{kesici_predicting_2009}
 Kesici, Sahin, and Ahmet Erdogan. 2009.
 \newblock {\selectlanguage{english}Predicting college students' mathematics
@@ -350,6 +378,13 @@ Kesici, Sahin, and Ahmet Erdogan. 2009.
 \newblock \emph{College Student Journal} 43(2):631--642.
 \newblock
   \urlprefix\url{http://search.ebscohost.com/login.aspx?direct=true&db=eft&AN=508070480&site=ehost-live&scope=site}.
+
+\bibitem[{Kumashiro(2000)}]{kumashiro_toward_2000}
+Kumashiro, Kevin~K. 2000.
+\newblock Toward a {Theory} of {Anti}-{Oppressive} {Education}.
+\newblock \emph{Review of Educational Research} 70(1):25--53.
+\newblock \doi{10.2307/1170593}.
+\newblock \urlprefix\url{https://www.jstor.org/stable/1170593}.
 
 \bibitem[{Labuhn et~al.(2010)Labuhn, Zimmerman, and
   Hasselhorn}]{labuhn_enhancing_2010}
@@ -397,6 +432,21 @@ Lenz, Laurie. 2015.
   {Arts} {Classroom}}.
 \newblock \emph{PRIMUS} 25(3):279--296.
 
+\bibitem[{LOVAGLIA et~al.(2004)LOVAGLIA, YOUNGREEN, LUCAS, NATH, RUTSTROM, and
+  WILLER}]{lovaglia_stereotype_2004}
+LOVAGLIA, MICHAEL~J., REEF YOUNGREEN, JEFFREY~W. LUCAS, LEDA~E. NATH, ELISABET
+  RUTSTROM, and DAVID WILLER. 2004.
+\newblock {STEREOTYPE} {THREAT} {AND} {DIFFERENTIAL} {EXPECTED} {CONSEQUENCES}:
+  {EXPLAINING} {GROUP} {DIFFERENCES} {IN} {MENTAL} {ABILITY} {TEST} {SCORES}.
+\newblock \emph{Sociological Focus} 37(2):107--125.
+\newblock \urlprefix\url{https://www.jstor.org/stable/20832227}.
+
+\bibitem[{Martin(2013)}]{martin_race_2013}
+Martin, Danny~Bernard. 2013.
+\newblock {\selectlanguage{english}Race, {Racial} {Projects}, and {Mathematics}
+  {Education}}.
+\newblock \emph{Journal for Research in Mathematics Education} 44(1):316--333.
+
 \bibitem[{Martin et~al.(2017)Martin, Goldwasser, and
   Harris}]{martin_developmental_2017}
 Martin, Kimberly, Molly Goldwasser, and Eugenia Harris. 2017.
@@ -406,10 +456,6 @@ Martin, Kimberly, Molly Goldwasser, and Eugenia Harris. 2017.
   Practice} 18(4):401--414.
 \newblock \doi{10.1177/1521025115604850}.
 \newblock \urlprefix\url{https://doi.org/10.1177/1521025115604850}.
-
-\bibitem[{McQuarrie(2016)}]{mcquarrie_changes_2016}
-McQuarrie, Dr~Fiona. 2016.
-\newblock {\selectlanguage{english}Changes in {K}-12 {Education}} 20.
 
 \bibitem[{Miller and Schraeder(2015)}]{miller_research_2015}
 Miller, David, and Matthew Schraeder. 2015.
@@ -474,10 +520,11 @@ Muis, Krista~R. 2008.
 \newblock
   \urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0361476X06000658}.
 
-\bibitem[{Musu-Gillette()}]{musu-gillette_status_nodate}
-Musu-Gillette, L. ????
+\bibitem[{Musu-Gillette(2006)}]{musu-gillette_status_nodate}
+Musu-Gillette, L. 2006.
 \newblock {\selectlanguage{english}Status and {Trends} in the {Education} of
-  {Racial} and {Ethnic} {Groups} 2016} 188.
+  {Racial} and {Ethnic} {Groups} 2016}.
+\newblock \emph{National Center for Education Statistics} 188.
 
 \bibitem[{Poon et~al.(2016)Poon, Squire, Kodama, Byrd, Chan, Manzano, Furr, and
   Bishundat}]{poon_critical_2016}
@@ -519,7 +566,7 @@ Simon, Rebecca~A., Mark~W. Aulls, Helena Dedic, Kyle Hubbard, and Nathan~C.
 Slater, Robert. 2000.
 \newblock {\selectlanguage{english}The {Persistent} {Racial} {Scoring} {Gap} on
   the {SAT}}.
-\newblock \emph{The Journal of Blacks in Higher Education} (29):85--88.
+\newblock \emph{The Journal of Blacks in Higher Education} 29:85--88.
 \newblock \doi{10.2307/2678849}.
 \newblock \urlprefix\url{https://www.jstor.org/stable/2678849}.
 

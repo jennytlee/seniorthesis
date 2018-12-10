@@ -30,7 +30,7 @@
 \contentsline {section}{\numberline {4.2}Method}{25}{section.4.2}
 \contentsline {section}{\numberline {4.3}Results}{27}{section.4.3}
 \contentsline {subsubsection}{1. $H_0$: Students self-assessed scores their math did not change (before $=$ after).}{27}{section*.12}
-\contentsline {subsubsection}{2. $H_0$: Students perceived their growth in mathematical knowledge eqally in both sections (quiz $=$ control).}{28}{section*.14}
+\contentsline {subsubsection}{2. $H_0$: Students perceived their growth in mathematical knowledge equally in both sections (quiz $=$ control).}{28}{section*.14}
 \contentsline {subsubsection}{3. $H_0$: Students perceived their growth in confidence in mathematics equally in both sections (quiz $=$ control).}{28}{section*.15}
 \contentsline {subsection}{\numberline {4.3.1}Focus Group}{28}{subsection.4.3.1}
 \contentsline {section}{\numberline {4.4}Discussion}{29}{section.4.4}
@@ -41,6 +41,8 @@
 \contentsline {subsection}{\numberline {4.4.2}Self-regulation in action.}{32}{subsection.4.4.2}
 \contentsline {subsection}{\numberline {4.4.3}A question to consider}{33}{subsection.4.4.3}
 \contentsline {chapter}{Bibliography}{35}{chapter*.19}
+\babel@toc {english}{}
+\babel@toc {english}{}
 \babel@toc {english}{}
 \babel@toc {english}{}
 \babel@toc {english}{}
