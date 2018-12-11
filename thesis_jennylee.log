@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840) (preloaded format=pdflatex 2018.12.4)  9 DEC 2018 22:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840) (preloaded format=pdflatex 2018.12.4)  10 DEC 2018 17:13
 entering extended mode
 **./thesis_jennylee.tex
 (thesis_jennylee.tex
@@ -1433,22 +1433,31 @@ rum of student independence
 
 ]
 Chapter 4.
+
+Overfull \hbox (8.08632pt too wide) in paragraph at lines 4--5
+\T1/zpltlf/m/n/10.95 (-20) classroom, I investigate through this case study whe
+ther self-paced assessments
+ []
+
 [25] [26]
 Overfull \hbox (8.56577pt too wide) in paragraph at lines 23--24
 \T1/zpltlf/m/n/10.95 (-20) During the pre-test, students were asked for informa
 tion on their demographics.
  []
 
-[27] [28] [29] [30]
+[27] [28]
+Overfull \hbox (10.65215pt too wide) in paragraph at lines 79--80
+\T1/zpltlf/m/n/10.95 (-20) differences quantitatively in both sentimental facto
+rs and academic achievement
+ []
+
+[29] [30]
 Overfull \hbox (2.61943pt too wide) in paragraph at lines 98--99
 []\T1/zpltlf/m/n/10.95 (-20) Thus, it is very likely that there are definitely 
 variables in the demographics
  []
 
-[31] [32]) [33] [34
-
-
-] (thesis_jennylee.bbl
+[31] [32] [33]) [34] (thesis_jennylee.bbl
 LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/n' will be
 (Font)              scaled to size 10.73094pt on input line 17.
 
@@ -1458,6 +1467,8 @@ s of Being
  []
 
 [35
+
+
 
 ] [36]
 Underfull \hbox (badness 5091) in paragraph at lines 154--162
@@ -1575,7 +1586,7 @@ ll/fonts/type1/public/newpx/zplr.pfb></Users/jennylee/Library/Application Suppo
 rt/MiKTeX/texmfs/install/fonts/type1/public/newpx/zplri.pfb></Users/jennylee/Li
 brary/Application Support/MiKTeX/texmfs/install/fonts/type1/public/newpx/zplx-r
 egular.pfb>
-Output written on thesis_jennylee.pdf (54 pages, 468840 bytes).
+Output written on thesis_jennylee.pdf (54 pages, 469792 bytes).
 PDF statistics:
  814 PDF objects out of 1000 (max. 8388607)
  184 named destinations out of 1000 (max. 500000)
